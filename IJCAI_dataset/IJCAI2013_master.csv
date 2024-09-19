@@ -1,0 +1,484 @@
+Unnamed: 0,title,inst1,inst2,inst3,inst4,inst5,inst6,inst7,inst8,inst9,inst10,inst11,inst12,inst13,inst14,inst15,inst16,inst17,inst18,inst19,inst20,num_academia,num_company
+0,Implicit Learning of Common Sense for Reasoning,Harvard University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+1,Answer Set Programming Modulo Theories and Reasoning about Continuous Changes,Arizona State University,Arizona State University,,,,,,,,,,,,,,,,,,,2.0,0.0
+2,Fast Linearization of Tree Kernels over Large-Scale Data,University of Trento,University of Trento,Qatar Computing Research Institute,,,,,,,,,,,,,,,,,,2.0,0.0
+3,Personalized Diagnosis for Over-Constrained Problems *,Graz University of Technology,Graz University of Technology,Graz University of Technology,,,,,,,,,,,,,,,,,,3.0,0.0
+4,Online Community Detection for Large Complex Networks,Zhejiang University,Zhejiang University,Zhejiang University,Zhejiang University,,,,,,,,,,,,,,,,,4.0,0.0
+5,Improving the Effectiveness of Time-Based Display Advertising (Extended Abstract) *,New York University,Google (United States),New York University,,,,,,,,,,,,,,,,,,2.0,1.0
+6,A Case-Based Solution to the Cold-Start Problem in Group Recommenders *,Complutense University of Madrid,University College Cork,Complutense University of Madrid,Complutense University of Madrid,,,,,,,,,,,,,,,,,4.0,0.0
+7,Computational Analysis of Connectivity Games with Applications to the Investigation of Terrorist Networks,University of Oxford,University of Warsaw,University of Southampton,Warsaw University of Technology,University of Warsaw,IBM Research - India,University of Oxford,,,,,,,,,,,,,,7.0,0.0
+8,Game-Theoretic Question Selection for Tests,Duke University,Duke University,,,,,,,,,,,,,,,,,,,2.0,0.0
+9,Link Label Prediction in Signed Social Networks,"IBM Research Bangalore, Indi",Toyota Technological Institute at Chicago,"IBM Research Bangalore, Indi",,,,,,,,,,,,,,,,,,1.0,2.0
+10,Promoting Diversity in Recommendation by Entropy Regularizer,Tsinghua University,Tsinghua University,,,,,,,,,,,,,,,,,,,2.0,0.0
+11,Hierarchical Object Discovery and Dense Modelling From Motion Cues in RGB-D Video,University of Bonn,University of Bonn,,,,,,,,,,,,,,,,,,,2.0,0.0
+12,Tractable Queries for Lightweight Description Logics,Laboratoire de Recherche en Informatique,"Institute of Information Systems Vienna University of Technology, Austri","Institute of Information Systems Vienna University of Technology, Austri","Institute of Information Systems Vienna University of Technology, Austri",,,,,,,,,,,,,,,,,4.0,0.0
+13,Towards a Knowledge Compilation Map for Heterogeneous Representation Languages ⇤,Université Toulouse III - Paul Sabatier,"CRIL-CNRS, Univ. Artois Lens, Franc","CRIL-CNRS, Univ. Artois Lens, Franc",,,,,,,,,,,,,,,,,,3.0,0.0
+14,A Global Constrained Optimization Method for Designing Road Networks with Small Diameters *,Tianjin University,II-VI (China),Tianjin University,II-VI (China),Tianjin University,II-VI (China),Tianjin University,The Open University,II-VI (China), U,,,,,,,,,,,5.0,4.0
+15,Twitter-Based User Modeling for News Recommendations *,Delft University of Technology,Delft University of Technology,Delft University of Technology,Delft University of Technology,,,,,,,,,,,,,,,,,4.0,0.0
+16,Why Is It So Hard to Say Sorry? Evolution of Apology with Commitments in the Iterated Prisoner's Dilemma *,Vrije Universiteit Brussel,Université Libre de Bruxelles,Universidade Nova de Lisboa,Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento," ATP-group, Inst. Investigac ¸ão Interdisciplinar, Lisbon, Portuga",Vrije Universiteit Brussel,Université Libre de Bruxelles,,,,,,,,,,,,,,4.0,0.0
+17,Intention-Aware Routing to Minimise Delays at Electric Vehicle Charging Stations *,Delft University of Technology,University of Southampton,University of Southampton,University of Southampton,University of Southampton,,,,,,,,,,,,,,,,5.0,0.0
+18,Bayesian Optimization in High Dimensions via Random Embeddings,University of British Columbia,University of Amsterdam,University of Freiburg,University of British Columbia,University of British Columbia,,,,,,,,,,,,,,,,5.0,0.0
+19,Protein Function Prediction by Integrating Multiple Kernels *,South China University of Technology,Southwest University,George Mason University,George Mason University,South China University of Technology,Southwest University,,,,,,,,,,,,,,,6.0,0.0
+20,Map Matching with Inverse Reinforcement Learning,IBM Research - Tokyo,IBM Research - Tokyo,,,,,,,,,,,,,,,,,,,2.0,0.0
+21,Refining Incomplete Planning Domain Models Through Plan Traces,Sun Yat-sen University,Arizona State University,Arizona State University,,,,,,,,,,,,,,,,,,3.0,0.0
+22,Do Hard SAT-Related Reasoning Tasks Become Easier in the Krom Fragment?,Aix-Marseille University,"Vienna University of Technology Favoritenstraße 9-11 A-1040 Vienna, Austri","Vienna University of Technology Favoritenstraße 9-11 A-1040 Vienna, Austri",,,,,,,,,,,,,,,,,,1.0,0.0
+23,Co-Regularized Ensemble for Feature Selection,Tianjin University,Tianjin University of Science and Technology,He University,He University,,,,,,,,,,,,,,,,,4.0,0.0
+24,Active Learning via Neighborhood Reconstruction,Zhejiang University,Zhejiang University,Zhejiang University,Zhejiang University,,,,,,,,,,,,,,,,,4.0,0.0
+25,Concept Learning for Cross-Domain Text Classification: A General Probabilistic Framework,Institute of Computing Technology," Hewlett Packard Labs, China",Pennsylvania State University,Institute of Computing Technology,Institute of Computing Technology,,,,,,,,,,,,,,,,4.0,0.0
+26,Backdoors to Abduction,University of Vienna,University of Vienna,University of Vienna,,,,,,,,,,,,,,,,,,3.0,0.0
+27,End-to-End Coreference Resolution for Clinical Narratives,University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,,,,,,,,,,,,,,,,,,,2.0,0.0
+28,Identifying Useful Human Correction Feedback from an On-line Machine Translation Service *,Universitat Politècnica de Catalunya,Technical University of Madrid,Universitat Politècnica de Catalunya,Universitat Politècnica de Catalunya,Universitat Politècnica de Catalunya,Universitat Politècnica de Catalunya,Etegent Technologies (United States),,,,,,,,,,,,,,6.0,1.0
+29,Social Trust Prediction Using Rank-k Matrix Recovery,The University of Texas at Arlington,The University of Texas at Arlington,The University of Texas at Arlington,The University of Texas at Arlington,The University of Texas at Arlington,,,,,,,,,,,,,,,,5.0,0.0
+30,Celebrity Recommendation with Collaborative Social Topic Regression,Tsinghua University,Tsinghua University,University of Toronto,Hong Kong University of Science and Technology,,,,,,,,,,,,,,,,,4.0,0.0
+31,Improving Traffic Prediction with Tweet Semantics,Stevens Institute of Technology,Stevens Institute of Technology,Stevens Institute of Technology,Stevens Institute of Technology,Stevens Institute of Technology,,,,,,,,,,,,,,,,5.0,0.0
+32,A Game-heoretic Machine Learning Approach for Revenue Maximization in Sponsored Search,Peking University," Microsoft Research Asia, Building 2, No. 5 Danling Street, Beijing, P.R.Chin",Peking University," Microsoft Research Asia, Building 2, No. 5 Danling Street, Beijing, P.R.Chin",,,,,,,,,,,,,,,,,2.0,0.0
+33,A Proof-Theoretical View of Collective Rationality,Christchurch Hospital,,,,,,,,,,,,,,,,,,,,1.0,0.0
+34,An Introduction to String Re-Writing Kernel *,Department of Health, State Key Laboratory of Intelligent Technology and Systems 1, Tsinghua National Laboratory for Information Sci. and Tech. 1,Tsinghua University,,,,,,,,,,,,,,,,,2.0,1.0
+35,Accurate Probability Calibration for Multiple Classifiers,Hong Kong University of Science and Technology,Hong Kong University of Science and Technology,Hong Kong University of Science and Technology,,,,,,,,,,,,,,,,,,3.0,0.0
+36,Misleading Opinions Provided by Advisors: Dishonesty or Subjectivity,National University of Singapore,Nanyang Technological University,,,,,,,,,,,,,,,,,,,2.0,0.0
+37,Ontology-Based Data Access with Closed Predicates Is Inherently Intractable (Sometimes),University of Bremen,University of Bremen,University of Liverpool,,,,,,,,,,,,,,,,,,3.0,0.0
+38,Iterated Boolean Games,Computer Science Department,Computer Science Department,Computer Science Department,,,,,,,,,,,,,,,,,,3.0,0.0
+39,Optimally Solving Dec-POMDPs as Continuous-State MDPs,University of Lorraine,Massachusetts Institute of Technology,University of Lorraine,University of Lorraine,,,,,,,,,,,,,,,,,4.0,0.0
+40,Audience-Based Uncertainty in Abstract Argument Games,Computer Science Department,Computer Science Department,,,,,,,,,,,,,,,,,,,2.0,0.0
+41,Sparse Reconstruction for Weakly Supervised Semantic Segmentation,Fudan University,Fudan University,Fudan University,Fudan University,,,,,,,,,,,,,,,,,4.0,0.0
+42,Towards Effective Prioritizing Water Pipe Replacement and Rehabilitation *,IBM Research - China,IBM Research - China,Georgia Institute of Technology,IBM Research - China,IBM Research - China,Georgia Institute of Technology,IBM Research - China,,,,,,,,,,,,,,7.0,0.0
+43,An Active Learning Approach to Home Heating in the Smart Grid,University of Zurich,University of Zurich,,,,,,,,,,,,,,,,,,,2.0,0.0
+44,Linear Temporal Logic and Linear Dynamic Logic on Finite Traces,Sapienza University of Rome,Rice University,,,,,,,,,,,,,,,,,,,2.0,0.0
+45,Automated Reasoning to Infer all Minimal Keys *,University of Malaga,University of Malaga,University of Malaga,,,,,,,,,,,,,,,,,,3.0,0.0
+46,Towards Active Event Recognition *,Imperial College London,Imperial College London,Imperial College London,Imperial College London,Imperial College London,Imperial College London,Imperial College London,Imperial College London,Imperial College London,Imperial College London,Imperial College London,,,,,,,,,,11.0,0.0
+47,An Exact Algorithm for Computing the Same-Decision Probability,California State University Los Angeles,California State University Los Angeles,California State University Los Angeles,,,,,,,,,,,,,,,,,,3.0,0.0
+48,Language-Based Games (Extended Abstract) *,Cornell University,Cornell University,Cornell University,,,,,,,,,,,,,,,,,,3.0,0.0
+49,How to Change a Group's Collective Decision?,Bar-Ilan University,Bar-Ilan University,Bar-Ilan University,,,,,,,,,,,,,,,,,,3.0,0.0
+50,On Robust Estimation of High Dimensional Generalized Linear Models,The University of Texas at Austin,University of Michigan–Ann Arbor,The University of Texas at Austin,,,,,,,,,,,,,,,,,,3.0,0.0
+51,Deep Feature Learning Using Target Priors with Applications in ECoG Signal Decoding for BCI,"University at Albany, State University of New York",Wadsworth Center,Rensselaer Polytechnic Institute,,,,,,,,,,,,,,,,,,3.0,0.0
+52,Joint and Coupled Bilingual Topic Model Based Sentence Representations for Language Model Adaptation,Chinese Academy of Sciences,Chinese Academy of Sciences,Chinese Academy of Sciences,Chinese Academy of Sciences,Chinese Academy of Sciences,,,,,,,,,,,,,,,,5.0,0.0
+53,Collaborative Filtering on Ordinal User Feedback *,,,,,,,,,,,,,,,,,,,,,0.0,0.0
+54,Prior-Free Exploration Bonus for and beyond Near Bayes-Optimal Behavior,International University of Japan,National Defense Academy of Japan,,,,,,,,,,,,,,,,,,,1.0,0.0
+55,Optimizing Cepstral Features for Audio Classification *,Western Sydney University,Monash University,Monash University,Monash University,,,,,,,,,,,,,,,,,4.0,0.0
+56,Multi-Winner Social Choice with Incomplete Preferences,University of Toronto,University of Toronto,,,,,,,,,,,,,,,,,,,2.0,0.0
+57,SCMF: Sparse Covariance Matrix Factorization for Collaborative Filtering,Chinese University of Hong Kong,Hong Kong University of Science and Technology,Chinese University of Hong Kong,Hong Kong University of Science and Technology,Chinese University of Hong Kong,Hong Kong University of Science and Technology,Chinese University of Hong Kong,Hong Kong University of Science and Technology,,,,,,,,,,,,,8.0,0.0
+58,Macau: A Basis for Evaluating Reputation Systems,"Hazardous Software 8929 Taymouth Ct. Raleigh, NC 27613, US",North Carolina State University,,,,,,,,,,,,,,,,,,,1.0,0.0
+59,Euler Clustering,Sun Yat-sen University,Key Laboratory of Guangdong Province,Sun Yat-sen University,Key Laboratory of Guangdong Province,Sun Yat-sen University,,,,,,,,,,,,,,,,5.0,0.0
+60,Change-Point Detection with Feature Selection in High-Dimensional Time-Series Data,"NTT Communication Science Laboratories, 2-4, Hikaridai, Seika-cho, Kyoto, 619-0237, Japa","NTT Communication Science Laboratories, 2-4, Hikaridai, Seika-cho, Kyoto, 619-0237, Japa","NTT Communication Science Laboratories, 2-4, Hikaridai, Seika-cho, Kyoto, 619-0237, Japa","NTT Communication Science Laboratories, 2-4, Hikaridai, Seika-cho, Kyoto, 619-0237, Japa",,,,,,,,,,,,,,,,,0.0,4.0
+61,An Improved Separation of Regular Resolution from Pool Resolution and Clause Learning (Extended Abstract) 1,Universitat Politècnica de Catalunya,"University of California, San Diego",,,,,,,,,,,,,,,,,,,2.0,0.0
+62,Probabilistic Reasoning with Undefined Properties in Ontologically-Based Belief Networks,University of British Columbia,University of British Columbia,Indian Institute of Technology Kanpur,University of British Columbia,,,,,,,,,,,,,,,,,4.0,0.0
+63,Upper Confidence Weighted Learning for Efficient Exploration in Multiclass Prediction with Binary Feedback *,Dalle Molle Institute for Artificial Intelligence Research, Manno-Lugano 6928 Switzerlan,University of Stuttgart,Dalle Molle Institute for Artificial Intelligence Research, Manno-Lugano 6928 Switzerlan,,,,,,,,,,,,,,,,3.0,0.0
+64,Exploiting Local and Global Social Context for Recommendation,Arizona State University,Jilin University,,,,,,,,,,,,,,,,,,,2.0,0.0
+65,"Uniform Convergence, Stability and Learnability for Ranking Problems *",Nanjing University,Nanjing University,,,,,,,,,,,,,,,,,,,2.0,0.0
+66,Discovering Different Types of Topics: Factored Topic Models,Cornell University,Cornell University,,,,,,,,,,,,,,,,,,,2.0,0.0
+67,An Ambiguity Aversion Framework of Security Games under Ambiguities,Queen's University Belfast,Sun Yat-sen University,Queen's University Belfast,,,,,,,,,,,,,,,,,,3.0,0.0
+68,"Sound, Complete, and Minimal Query Rewriting for Existential Rules *",University of Montpellier,University of Montpellier,University of Montpellier,University of Montpellier,,,,,,,,,,,,,,,,,4.0,0.0
+69,Integrating Syntactic and Semantic Analysis into the Open Information Extraction Paradigm,Sapienza University of Rome,Sapienza University of Rome,,,,,,,,,,,,,,,,,,,2.0,0.0
+70,Protein Function Prediction via Laplacian Network Partitioning Incorporating Function Category Correlations,Colorado School of Mines,The University of Texas at Arlington,The University of Texas at Arlington,,,,,,,,,,,,,,,,,,3.0,0.0
+71,Bounded Programs: A New Decidable Class of Logic Programs with Function Symbols,"DIMES, Università della Calabria 87036 Rende (CS), Ital","DIMES, Università della Calabria 87036 Rende (CS), Ital","DIMES, Università della Calabria 87036 Rende (CS), Ital",,,,,,,,,,,,,,,,,,3.0,0.0
+72,Computing Stable Models for Nonmonotonic Existential Rules,University of Oxford,University of Oxford,University of Oxford,,,,,,,,,,,,,,,,,,3.0,0.0
+73,Automated Grading of DFA Constructions *,Computer Science Department,Computer Science Department,Microsoft (United States),University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,,,,,,,,,,,,,,,,2.0,1.0
+74,Shifted Subspaces Tracking on Sparse Outlier for Motion Segmentation,University of Technology Sydney,University of Technology Sydney,,,,,,,,,,,,,,,,,,,2.0,0.0
+75,The Complexity of One-Agent Refinement Modal Logic *,Technical University of Madrid,Lorraine Research Laboratory in Computer Science and its Applications,University of Rennes,,,,,,,,,,,,,,,,,,3.0,0.0
+76,On Stochastic Optimal Control and Reinforcement Learning by Approximate Inference (Extended Abstract) *,School of Informatics University of Edinburg,Inst. für Parallele und Verteilte Systeme Universität Stuttgar,School of Informatics University of Edinburg,,,,,,,,,,,,,,,,,,3.0,0.0
+77,A General Framework for Interacting Bayes-Optimally with Self-Interested Agents Using Arbitrary Parametric Model and Model Prior,National University of Singapore,National University of Singapore,,,,,,,,,,,,,,,,,,,2.0,0.0
+78,Efficient Vote Elicitation under Candidate Uncertainty,University of Toronto,University of Toronto,University of Toronto,,,,,,,,,,,,,,,,,,3.0,0.0
+79,A Framework to Choose Trust Models for Different E-Marketplace Environments,Nanyang Technological University,Nanyang Technological University,Nanyang Technological University,,,,,,,,,,,,,,,,,,3.0,0.0
+80,Where You Like to Go Next: Successive Point-of-Interest Recommendation,"Chinese University of Hong Kong, Shenzhen",Chinese University of Hong Kong,"Chinese University of Hong Kong, Shenzhen",Chinese University of Hong Kong,"Chinese University of Hong Kong, Shenzhen",Chinese University of Hong Kong,"Chinese University of Hong Kong, Shenzhen",Chinese University of Hong Kong,,,,,,,,,,,,,8.0,0.0
+81,Context-Dependent Conceptualization,Korea Advanced Institute of Science and Technology,Microsoft Research Asia (China),Korea Advanced Institute of Science and Technology,Microsoft Research Asia (China),,,,,,,,,,,,,,,,,2.0,2.0
+82,Verification of Inconsistency-Aware Knowledge and Action Bases *,Free University of Bozen-Bolzano,Free University of Bozen-Bolzano,Free University of Bozen-Bolzano,Free University of Bozen-Bolzano,Free University of Bozen-Bolzano,,,,,,,,,,,,,,,,5.0,0.0
+83,A Formal Account of Nondeterministic and Failed Actions,Simon Fraser University,University of Toronto,,,,,,,,,,,,,,,,,,,2.0,0.0
+84,Dynamic Taxi and Ridesharing: A Framework and Heuristics for the Optimization Problem *,Universidade Estadual de Campinas,Universidade Estadual de Campinas,,,,,,,,,,,,,,,,,,,2.0,0.0
+85,Improved Integer Programming Approaches for Chance-Constrained Stochastic Programming,IBM Research - Tokyo,IBM Research - Tokyo,,,,,,,,,,,,,,,,,,,2.0,0.0
+86,A Matroid Approach to the Worst Case Allocation of Indivisible Goods *,Paris Dauphine University,Paris Dauphine University,Paris Dauphine University,,,,,,,,,,,,,,,,,,3.0,0.0
+87,Elicitation and Approximately Stable Matching with Partial Preferences,Computer Science Department,Computer Science Department,,,,,,,,,,,,,,,,,,,2.0,0.0
+88,Bilevel Visual Words Coding for Image Classification,Zhejiang University,Zhejiang University,Zhejiang University,Zhejiang University,,,,,,,,,,,,,,,,,4.0,0.0
+89,Inference for a New Probabilistic Constraint Logic *,Radboud University Nijmegen,Radboud University Nijmegen,Radboud University Nijmegen,Radboud University Nijmegen,Radboud University Nijmegen,,,,,,,,,,,,,,,,5.0,0.0
+90,Computing Datalog Rewritings Beyond Horn Ontologies *,Computer Science Department,Computer Science Department,University of Oxford,National Technical University of Athens,Computer Science Department,,,,,,,,,,,,,,,,2.0,0.0
+91,Learning Domain Differences Automatically for Dependency Parsing Adaptation,Harbin Institute of Technology,Harbin Institute of Technology,Harbin Institute of Technology,,,,,,,,,,,,,,,,,,3.0,0.0
+92,A KNN Based Kalman Filter Gaussian Process Regression,Université Laval,Université Laval,,,,,,,,,,,,,,,,,,,2.0,0.0
+93,The Route to Success -A Performance Comparison of Diagnosis Algorithms,Graz University of Technology,"Inffeldgasse 16b/II, 8010 Graz, Austri",,,,,,,,,,,,,,,,,,,1.0,0.0
+94,Mining for Analogous Tuples from an Entity-Relation Graph,The University of Tokyo,Kyoto University,National Institute of Informatics,Japan Science and Technology Agency,,,,,,,,,,,,,,,,,4.0,0.0
+95,Persistent Homology: An Introduction and a New Text Representation for Natural Language Processing,University of Wisconsin–Madison,,,,,,,,,,,,,,,,,,,,1.0,0.0
+96,Online Hashing,Sun Yat-sen University,Key Laboratory of Guangdong Province,,,,,,,,,,,,,,,,,,,2.0,0.0
+97,Probabilistic Multi-Label Classification with Sparse Feature Learning,Temple University,Temple University,,,,,,,,,,,,,,,,,,,2.0,0.0
+98,GBPR: Group Preference Based Bayesian Personalized Ranking for One-Class Collaborative Filtering,Hong Kong Baptist University,Hong Kong Baptist University,,,,,,,,,,,,,,,,,,,2.0,0.0
+99,Multi-View K-Means Clustering on Big Data,The University of Texas at Arlington,The University of Texas at Arlington,The University of Texas at Arlington,,,,,,,,,,,,,,,,,,3.0,0.0
+100,Efficient Learning in Linearly Solvable MDP Models,University of Minnesota,University of Minnesota,,,,,,,,,,,,,,,,,,,2.0,0.0
+101,Sufficient Plan-Time Statistics for Decentralized POMDPs,Maastricht University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+102,A New Trajectory Deformation Algorithm Based on Affine Transformations *,The University of Tokyo,The University of Tokyo,,,,,,,,,,,,,,,,,,,2.0,0.0
+103,Preference-Based CBR: General Ideas and Basic Principles *,Philipps University of Marburg,Philipps University of Marburg,,,,,,,,,,,,,,,,,,,2.0,0.0
+104,Semi-Supervised Learning with Manifold Fitted Graphs,Columbia University,Xiamen University,Columbia University,University of Technology Sydney,IBM Research - Austin,Stevens Institute of Technology,,,,,,,,,,,,,,,6.0,0.0
+105,A Brain-Computer Interface to a Plan-Based Narrative,Teesside University,Tel Aviv Sourasky Medical Center,,,,,,,,,,,,,,,,,,,2.0,0.0
+106,Action Language BC: Preliminary Report,University of the State of Amazonas,The University of Texas at Austin,The University of Texas at Austin,,,,,,,,,,,,,,,,,,2.0,0.0
+107,Knowledge Compilation for Model Counting: Affine Decision Trees *,Artois University,Johannes Kepler University of Linz,Artois University,Artois University,,,,,,,,,,,,,,,,,4.0,0.0
+108,Combine Constituent and Dependency Parsing via Reranking,City University of Hong Kong," HKSAR, Chin",City University of Hong Kong," HKSAR, Chin",Tower Semiconductor (Israel),Tsinghua University,City University of Hong Kong," HKSAR, Chin",,,,,,,,,,,,,4.0,1.0
+109,Kemeny Elections with Bounded Single-Peaked or Single-Crossing Width,Paris Dauphine University,Paris Dauphine University,"LIP6-CNRS, UMR 7606 UPMC Paris, Franc",,,,,,,,,,,,,,,,,,3.0,0.0
+110,The Dynamics of Reinforcement Social Learning in Cooperative Multiagent Systems,Chinese University of Hong Kong,Chinese University of Hong Kong,,,,,,,,,,,,,,,,,,,2.0,0.0
+111,Bayesian Joint Inversions for the Exploration of Earth Resources,Data61,Data61,Data61,Data61,University of Melbourne,University of Sydney,,,,,,,,,,,,,,,6.0,0.0
+112,Learning Visual Symbols for Parsing Human Poses in Images,Nanjing University of Science and Technology,National Institute of Information and Communications Technology,National Institute of Information and Communications Technology,,,,,,,,,,,,,,,,,,3.0,0.0
+113,Data Repair of Inconsistent DL-Programs *,"Institute of Information Systems Vienna University of Technology Favoritenstraße 9-11, A-1040 Vienna, Austri","Institute of Information Systems Vienna University of Technology Favoritenstraße 9-11, A-1040 Vienna, Austri","Institute of Information Systems Vienna University of Technology Favoritenstraße 9-11, A-1040 Vienna, Austri",,,,,,,,,,,,,,,,,,3.0,0.0
+114,Tractable Approximations of Consistent Query Answering for Robust Ontology-Based Data Access,Laboratoire de Recherche en Informatique,Sapienza University of Rome,,,,,,,,,,,,,,,,,,,2.0,0.0
+115,Listening to the Crowd: Automated Analysis of Events via Aggregated Twitter Sentiment,Arizona State University,IBM Research - Thomas J. Watson Research Center,Arizona State University,IBM Research - Thomas J. Watson Research Center,,,,,,,,,,,,,,,,,4.0,0.0
+116,"Modeling The Interplay of People's Location, Interactions, and Social Ties Ådam",University of Rochester,University of Rochester,,,,,,,,,,,,,,,,,,,2.0,0.0
+117,Efficient Kernel Learning from Side Information Using ADMM,Hong Kong University of Science and Technology,Yunnan Normal University,Hong Kong University of Science and Technology,,,,,,,,,,,,,,,,,,3.0,0.0
+118,Multi-Prototype Label Ranking with Novel Pairwise-to-Total-Rank Aggregation,"Yahoo! Labs, US",Temple University,Temple University,,,,,,,,,,,,,,,,,,2.0,0.0
+119,Efficiently Solving Joint Activity Based Security Games,University of Southern California,University of Southern California,University of Southern California,University of Southern California,,,,,,,,,,,,,,,,,4.0,0.0
+120,Learning Topical Translation Model for Microblog Hashtag Suggestion,Fudan University,Fudan University,Fudan University,Fudan University,,,,,,,,,,,,,,,,,4.0,0.0
+121,A Clause-Level Hybrid Approach to Chinese Empty Element Recovery,Soochow University,National University of Singapore,Soochow University,,,,,,,,,,,,,,,,,,3.0,0.0
+122,Parameter Learning for Latent Network Diffusion,University of Massachusetts Amherst,IBM Research - India,University of Massachusetts Amherst,University of Massachusetts Amherst,,,,,,,,,,,,,,,,,4.0,0.0
+123,"Action Translation in Extensive-Form Games with Large Action Spaces: Axioms, Paradoxes, and the Pseudo-Harmonic Mapping *",Carnegie Mellon University,Carnegie Mellon University,,,,,,,,,,,,,,,,,,,2.0,0.0
+124,Multi-Instance Multi-Label Learning with Weak Label *,Nanjing University,Nanjing University,Nanjing University,,,,,,,,,,,,,,,,,,3.0,0.0
+125,Online Group Feature Selection,Hefei University of Technology,Hefei University of Technology,Hong Kong Baptist University,Hefei University of Technology,Hong Kong Baptist University,Hefei University of Technology,Hefei University of Technology,University of Vermont,,,,,,,,,,,,,8.0,0.0
+126,Human Action Recognition Using a Temporal Hierarchy of Covariance Descriptors on 3D Joint Locations,Alexandria University,Alexandria University,Alexandria University,Egyptian Atomic Energy Authority,,,,,,,,,,,,,,,,,3.0,0.0
+127,Accurate Integration of Crowdsourced Labels Using Workers' Self-Reported Confidence Scores,Hokkaido University,Kyushu University,The University of Tokyo,The University of Tokyo,,,,,,,,,,,,,,,,,4.0,0.0
+128,"Semiring Labelled Decision Diagrams, Revisited: Canonicity and Spatial Efficiency Issues *",Université de Toulouse,Artois University,Université de Toulouse,Artois University,,,,,,,,,,,,,,,,,4.0,0.0
+129,Positive Subsumption in Fuzzy EL with General t-Norms *,TU Dresden,Center for Advancing Electronics Dresde,,,,,,,,,,,,,,,,,,,1.0,0.0
+130,Are There Any Nicely Structured Preference Profiles Nearby?,Technical University of Berlin,Modeinstitut Berlin (Germany),Eindhoven University of Technology,,,,,,,,,,,,,,,,,,2.0,0.0
+131,Sequential Equilibrium in Computational Games,Cornell University,Cornell University,,,,,,,,,,,,,,,,,,,2.0,0.0
+132,Adaptive Management of Migratory Birds Under Sea Level Rise,CSIRO Ecosystem Science,French Institute for Research in Computer Science and Automation,University of Lorraine,Stanford University,CSIRO Ecosystem Science,,,,,,,,,,,,,,,,4.0,0.0
+133,Manifold Alignment Based on Sparse Local Structures of More Corresponding Pairs,Sichuan University,Sichuan University,Sichuan University,,,,,,,,,,,,,,,,,,3.0,0.0
+134,Reasoning about State Constraints in the Situation Calculus,Sun Yat-sen University,Sun Yat-sen University,Griffith University,Sun Yat-sen University,,,,,,,,,,,,,,,,,4.0,0.0
+135,Syntactic Labelled Tableaux for Łukasiewicz Fuzzy ALC *,Imperial College London,University of Erlangen-Nuremberg,,,,,,,,,,,,,,,,,,,2.0,0.0
+136,Multi-View Embedding Learning for Incompletely Labeled Data,Fudan University,Fudan University,Fudan University,Fudan University,,,,,,,,,,,,,,,,,4.0,0.0
+137,A Cutoff Technique for the Verification of Parameterised Interpreted Systems with Parameterised Environments,Imperial College London,Imperial College London,,,,,,,,,,,,,,,,,,,2.0,0.0
+138,A Bayesian Factorised Covariance Model for Image Analysis *,University of Technology Sydney,University of Technology Sydney,,,,,,,,,,,,,,,,,,,2.0,0.0
+139,An Intelligent Broker Agent for Energy Trading: An MDP Approach,Aston University,Aston University,Aston University,Aston University,,,,,,,,,,,,,,,,,4.0,0.0
+140,Control Complexity of Schulze Voting,University of Rochester,Northwestern University,,,,,,,,,,,,,,,,,,,2.0,0.0
+141,Three Semantics for the Core of the Distributed Ontology Language (Extended Abstract) *,University of Bremen,University of Birmingham,University of Bremen,,,,,,,,,,,,,,,,,,3.0,0.0
+142,Case Adaptation with Qualitative Algebras *,University of Lorraine,University of Strasbourg,University of Lorraine,Lancaster University,,,,,,,,,,,,,,,,,4.0,0.0
+143,Synthesizing Union Tables from the Web,University of Washington,University of Washington,University of Washington,University of Washington,,,,,,,,,,,,,,,,,4.0,0.0
+144,Web and Knowledge-Based Information Systems,,,,,,,,,,,,,,,,,,,,,0.0,0.0
+145,Decidable Reasoning in a Logic of Limited Belief with Introspection and Unknown Individuals,RWTH Aachen University,University of Toronto,,,,,,,,,,,,,,,,,,,2.0,0.0
+146,Opinion Target Extraction Using Partially-Supervised Word Alignment Model *,Academia Sinica,Academia Sinica,Academia Sinica,Academia Sinica,,,,,,,,,,,,,,,,,4.0,0.0
+147,Predicting Human Strategic Decisions Using Facial Expressions,Bar-Ilan University,Bar-Ilan University,Bar-Ilan University,Bar-Ilan University,,,,,,,,,,,,,,,,,4.0,0.0
+148,TutorialPlan: Automated Tutorial Generation from CAD Drawings,"Autodesk Research Toronto, Ontario, Canad",Texas Tech University,"Autodesk Research Toronto, Ontario, Canad",,,,,,,,,,,,,,,,,,1.0,0.0
+149,Histogram of Oriented Displacements (HOD): Describing Trajectories of Human Joints for Action Recognition,Alexandria University,Alexandria University,Alexandria University,Egyptian Atomic Energy Authority,,,,,,,,,,,,,,,,,3.0,0.0
+150,Causal Inference with Rare Events in Large-Scale Time-Series Data,Stevens Institute of Technology,,,,,,,,,,,,,,,,,,,,1.0,0.0
+151,A Consensual Linear Opinion Pool,Cheriton School of Computer Science University of Waterlo,Cheriton School of Computer Science University of Waterlo,,,,,,,,,,,,,,,,,,,2.0,0.0
+152,Rolling Dispersion for Robot Teams,Department of Computer Science and Engineering University of Minnesot,Department of Computer Science and Engineering University of Minnesot,,,,,,,,,,,,,,,,,,,2.0,0.0
+153,Representation and Reasoning about General Solid Rectangles,Australian National University,Australian National University,,,,,,,,,,,,,,,,,,,2.0,0.0
+154,Multi-Modal Distance Metric Learning *,Tsinghua University,Carnegie Mellon University,,,,,,,,,,,,,,,,,,,2.0,0.0
+155,Reduced Heteroscedasticity Linear Regression for Nyström Approximation,Nanyang Technological University,Nanjing University,Nanyang Technological University,,,,,,,,,,,,,,,,,,3.0,0.0
+156,Planning with MIP for Supply Restoration in Power Distribution Systems,Australian National University,University of Melbourne,Australian National University,Australian National University,University of Melbourne,Australian National University,,,,,,,,,,,,,,,6.0,0.0
+157,Forecast Oriented Classification of Spatio-Temporal Extreme Events,Northwestern University,Northwestern University,Northwestern University,Northwestern University,Northwestern University,Northwestern University,North Carolina State University,Northwestern University,,,,,,,,,,,,,8.0,0.0
+158,Optimal Airline Ticket Purchasing Using Automated User-Guided Feature Selection,University of Minnesota,University of Minnesota,,,,,,,,,,,,,,,,,,,2.0,0.0
+159,Control in the Presence of Manipulators: Cooperative and Competitive Cases,Rochester Institute of Technology,Rochester Institute of Technology,University of Rochester,,,,,,,,,,,,,,,,,,3.0,0.0
+160,Sample Complexity of Risk-Averse Bandit-Arm Selection,IBM Research - Ireland,Texas A&M University,,,,,,,,,,,,,,,,,,,2.0,0.0
+161,The Impact of Disjunction on Query Answering Under Guarded-Based Existential Rules,University of Oxford,University of Oxford,University of Oxford,,,,,,,,,,,,,,,,,,3.0,0.0
+162,Bounded Epistemic Situation Calculus Theories,Sapienza University of Rome,York University,Sapienza University of Rome,,,,,,,,,,,,,,,,,,3.0,0.0
+163,A Novel Bayesian Similarity Measure for Recommender Systems,American University of Beirut,University of Cambridge,Nanyang Technological University,,,,,,,,,,,,,,,,,,3.0,0.0
+164,A Unified Framework for Reputation Estimation in Online Rating Systems,"Chinese University of Hong Kong, Shenzhen",Chinese University of Hong Kong,"Chinese University of Hong Kong, Shenzhen",Chinese University of Hong Kong,"Chinese University of Hong Kong, Shenzhen",Chinese University of Hong Kong,,,,,,,,,,,,,,,6.0,0.0
+165,Optimal Valve Placement in Water Distribution Networks with CLP(FD) *,Imperial College London,University of Ferrara,University of Ferrara,University of Ferrara,University of Ferrara,,,,,,,,,,,,,,,,5.0,0.0
+166,Decision Generalisation from Game Logs in No Limit Texas Hold'em *,University of Auckland,University of Auckland,,,,,,,,,,,,,,,,,,,2.0,0.0
+167,Coalitional Games via Network Flows,University of Southampton,University of Southampton,University of Oxford,University of Warsaw,University of Southampton,University of Montpellier,University of Southampton,,,,,,,,,,,,,,7.0,0.0
+168,A Social Welfare Optimal Sequential Allocation Procedure *,University of Rostock,Data61,Data61,,,,,,,,,,,,,,,,,,3.0,0.0
+169,Adaptive Error-Correcting Output Codes,École de Technologie Supérieure,École de Technologie Supérieure,,,,,,,,,,,,,,,,,,,2.0,0.0
+170,Advanced Conflict-Driven Disjunctive Answer Set Solving,Simon Fraser University,University of Potsdam,,,,,,,,,,,,,,,,,,,2.0,0.0
+171,Preference-Based Query Answering in Datalog+/-Ontologies,University of Oxford,University of Oxford,University of Oxford,,,,,,,,,,,,,,,,,,3.0,0.0
+172,The Inclusion-Exclusion Rule and Its Application to the Junction Tree Algorithm,The University of Texas at Dallas,The University of Texas at Dallas,,,,,,,,,,,,,,,,,,,2.0,0.0
+173,Sequences of Mechanisms for Causal Reasoning in Artificial Intelligence,Intel (United States),University of Pittsburgh,University of Pittsburgh,,,,,,,,,,,,,,,,,,2.0,1.0
+174,Abstract Dialectical Frameworks Revisited *,Leipzig University,Leipzig University,Leipzig University,University of Vienna,University of Vienna,,,,,,,,,,,,,,,,5.0,0.0
+175,C-Link: A Hierarchical Clustering Approach to Large-Scale Near-Optimal Coalition Formation *,University of Verona,University of Verona,University of Southampton,University of Verona,,,,,,,,,,,,,,,,,4.0,0.0
+176,Revenue Maximization via Hiding Item Attributes *,University of Liverpool,University of Liverpool,,,,,,,,,,,,,,,,,,,2.0,0.0
+177,A Hidden Markov Model-Based Acoustic Cicada Detector for Crowdsourced Smartphone Biodiversity Monitoring,University of Southampton,University of Southampton,University of Southampton,University of Southampton,,,,,,,,,,,,,,,,,4.0,0.0
+178,Forecasting Multi-Appliance Usage for Smart Home Energy Management,University of Southampton,University of Southampton,University of Southampton,University of Southampton,University of Southampton,,,,,,,,,,,,,,,,5.0,0.0
+179,An Epistemic Halpern-Shoham Logic,Imperial College London,Imperial College London,,,,,,,,,,,,,,,,,,,2.0,0.0
+180,A Strongly-Local Contextual Logic,UNSW Sydney,,,,,,,,,,,,,,,,,,,,1.0,0.0
+181,Crowdsourcing-Assisted Query Structure Interpretation *,Tsinghua University,National University of Singapore,Tsinghua University,,,,,,,,,,,,,,,,,,3.0,0.0
+182,Lazy Paired Hyper-Parameter Tuning,Microsoft (United States),Microsoft (United States),,,,,,,,,,,,,,,,,,,0.0,2.0
+183,Automatically Generating Problems and Solutions for Natural Deduction,Indian Institute of Technology Kanpur,Indian Institute of Technology Kanpur,Indian Institute of Technology Kanpur,,,,,,,,,,,,,,,,,,3.0,0.0
+184,Defender (Mis)coordination in Security Games *,University of Southern California,Carnegie Mellon University,University of Southern California,Carnegie Mellon University,University of Southern California,,,,,,,,,,,,,,,,5.0,0.0
+185,Opponent Models with Uncertainty for Strategic Argumentation,University of Luxembourg,University of Koblenz and Landau,University of Aberdeen,,,,,,,,,,,,,,,,,,3.0,0.0
+186,Bayesian Probabilities for Constraint-Based Causal Discovery *,Radboud University Nijmegen,Radboud University Nijmegen,,,,,,,,,,,,,,,,,,,2.0,0.0
+187,Predicting Knowledge in an Ontology Stream *,University College Dublin,University of Aberdeen,,,,,,,,,,,,,,,,,,,2.0,0.0
+188,Active Learning for Teaching a Robot Grounded Relational Symbols,University of Stuttgart,Inria Bordeaux - Sud-Ouest Research Centre,,,,,,,,,,,,,,,,,,,2.0,0.0
+189,Active Learning for Level Set Estimation,ETH Zurich,ETH Zurich,ETH Zurich,ETH Zurich,,,,,,,,,,,,,,,,,4.0,0.0
+190,Probabilistic Equivalence Verification Approach for Automatic Mathematical Solution Assessment,Nanyang Technological University,Nanyang Technological University,Nanyang Technological University,Auckland University of Technology,,,,,,,,,,,,,,,,,4.0,0.0
+191,StarVars-Effective Reasoning about Relative Directions *,University of Bremen,Australian National University,University of Bremen,,,,,,,,,,,,,,,,,,3.0,0.0
+192,Employing Batch Reinforcement Learning to Control Gene Regulation without Explicitly Constructing Gene Regulatory Networks,University of Calgary,University of Calgary,Middle East Technical University,,,,,,,,,,,,,,,,,,3.0,0.0
+193,Active Learning for Cross-omain Sentiment Classification,Soochow University,Soochow University,Soochow University,Soochow University,,,,,,,,,,,,,,,,,4.0,0.0
+194,Multi-View Discriminant Transfer Learning,South China University of Technology,Qatar Computing Research Institute,,,,,,,,,,,,,,,,,,,1.0,0.0
+195,A Theoretic Framework of K-Means-Based Consensus Clustering,Beihang University,Beihang University,"Rutgers, The State University of New Jersey",Nanjing University of Finance and Economics,,,,,,,,,,,,,,,,,4.0,0.0
+196,Accelerated Robust Point Cloud Registration in Natural Environments through Positive and Unlabeled Learning,Université Laval,Université Laval,Université Laval,Université Laval,,,,,,,,,,,,,,,,,4.0,0.0
+197,On the Complexity of Probabilistic Abstract Argumentation *,University of Calabria,University of Calabria,University of Calabria,,,,,,,,,,,,,,,,,,3.0,0.0
+198,Tag-Weighted Topic Model for Mining Semi-Structured Documents,Sun Yat-sen University,Sun Yat-sen University,Sun Yat-sen University,,,,,,,,,,,,,,,,,,3.0,0.0
+199,Detecting and Tracking Disease Outbreaks by Mining Social Media Data,Northwestern University,Northwestern University,Northwestern University,Northwestern University,Northwestern University,Northwestern University,Northwestern University,,,,,,,,,,,,,,7.0,0.0
+200,Opponent Modelling in Persuasion Dialogues,King's College London,King's College London,King's College London,King's College London,King's College London,,,,,,,,,,,,,,,,5.0,0.0
+201,Conditional Restricted Boltzmann Machines for Negotiations in Highly Competitive and Complex Domains,Maastricht University,Maastricht University,Maastricht University,Maastricht University,,,,,,,,,,,,,,,,,4.0,0.0
+202,Harmonious Hashing,Zhejiang University,Zhejiang University,Zhejiang University,Zhejiang University,Zhejiang University,Zhejiang University,,,,,,,,,,,,,,,6.0,0.0
+203,The Markov Assumption: Formalization and Impact,Holon Institute of Technology,,,,,,,,,,,,,,,,,,,,1.0,0.0
+204,FQHT: The Logic of Stable Models for Logic Programs with Intensional Functions,Université de Toulouse,Technical University of Madrid,University of Malaga,,,,,,,,,,,,,,,,,,3.0,0.0
+205,A Generalization of SAT and #SAT for Robust Policy Evaluation,Carnegie Mellon University,Carnegie Mellon University,Carnegie Mellon University,,,,,,,,,,,,,,,,,,3.0,0.0
+206,Recommendation Using Textual Opinions,École Polytechnique Fédérale de Lausanne,École Polytechnique Fédérale de Lausanne,École Polytechnique Fédérale de Lausanne,,,,,,,,,,,,,,,,,,3.0,0.0
+207,Satisfiability Modulo Constraint Handling Rules (Extended Abstract) *,National University of Singapore,,,,,,,,,,,,,,,,,,,,1.0,0.0
+208,Discovering Alignments in Ontologies of Linked Data *,University of Southern California,University of Southern California,University of Southern California,,,,,,,,,,,,,,,,,,3.0,0.0
+209,Multi-Agent Team Formation: Diversity Beats Strength?,University of Southern California,University of Southern California,University of Southern California,,,,,,,,,,,,,,,,,,3.0,0.0
+210,Agent Failures in All-Pay Auctions,Hebrew University of Jerusalem,Hebrew University of Jerusalem,Microsoft Research (United Kingdom),Hebrew University of Jerusalem,,,,,,,,,,,,,,,,,3.0,1.0
+211,Robust Median Reversion Strategy for On-Line Portfolio Selection *,East China University of Science and Technology,Fudan University,Fudan University,East China University of Science and Technology,Nanyang Technological University,Nanyang Technological University,Fudan University,Fudan University,,,,,,,,,,,,,8.0,0.0
+212,Learning High-Order Task Relationships in Multi-Task Learning,Hong Kong Baptist University,Hong Kong University of Science and Technology,,,,,,,,,,,,,,,,,,,2.0,0.0
+213,Parameterized Complexity of Optimal Planning: A Detailed Map,University of Vienna,University of Vienna,University of Vienna,,,,,,,,,,,,,,,,,,3.0,0.0
+214,Analogico-Deductive Generation of Gödel's First Incompleteness Theorem from the Liar Paradox *,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,,,,,,,,,,,,,,,,5.0,0.0
+215,Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction with Discourse-evel Information,Soochow University,Soochow University,Soochow University,,,,,,,,,,,,,,,,,,3.0,0.0
+216,Leveraging Multi-Domain Prior Knowledge in Topic Models,University of Illinois at Chicago,University of Illinois at Chicago,University of Illinois at Chicago,University of Illinois at Chicago,University of Illinois at Chicago,University of Illinois at Chicago,,,,,,,,,,,,,,,6.0,0.0
+217,MiningZinc: A Modeling Language for Constraint-based Mining,KU Leuven,KU Leuven,Monash University,KU Leuven,Leiden University,KU Leuven,,,,,,,,,,,,,,,6.0,0.0
+218,What Users Care About: A Framework for Social Content Alignment,Tsinghua University,Tsinghua University,Institute for Infocomm Research,Tsinghua University,Tsinghua University,Tsinghua University,Tsinghua University,,,,,,,,,,,,,,7.0,0.0
+219,Efficient Interdependent Value Combinatorial Auctions with Single Minded Bidders,University of Southampton,Harvard University,Nagoya Institute of Technology,University of Southampton,,,,,,,,,,,,,,,,,4.0,0.0
+220,Active Evaluation of Ranking Functions based on Graded Relevance (Extended Abstract) *,University of Potsdam,"Nokia gate5 GmbH Berlin, German",University of Virginia,University of Potsdam,University of Potsdam,,,,,,,,,,,,,,,,4.0,0.0
+221,Social Spammer Detection in Microblogging,Arizona State University,Arizona State University,Arizona State University,Arizona State University,,,,,,,,,,,,,,,,,4.0,0.0
+222,Look versus Leap: Computing Value of Information with High-Dimensional Streaming Evidence,Microsoft (United States),Microsoft Research (India),,,,,,,,,,,,,,,,,,,0.0,2.0
+223,Handling Open Knowledge for Service Robots,University of Science and Technology of China,University of Science and Technology of China,University of Science and Technology of China,University of Science and Technology of China,,,,,,,,,,,,,,,,,4.0,0.0
+224,Bargaining for Revenue Shares on Tree Trading Networks,Cornell University,IBM Research - Thomas J. Watson Research Center,Yahoo (United States),Toyota Technological Institute at Chicago,,,,,,,,,,,,,,,,,3.0,1.0
+225,Nonconvex Relaxation Approaches to Robust Matrix Recovery,Zhejiang University,Zhejiang University,Zhejiang University,,,,,,,,,,,,,,,,,,3.0,0.0
+226,Smart Hashing Update for Fast Response,Sun Yat-sen University,Key Laboratory of Guangdong Province,,,,,,,,,,,,,,,,,,,2.0,0.0
+227,Randomized Load Control: A Simple Distributed Approach for Scheduling Smart Appliances,Data61,Data61,Data61,,,,,,,,,,,,,,,,,,3.0,0.0
+228,Syntactic Computation of Hybrid Possibilistic Conditioning under Uncertain Inputs,Artois University,Nice Sophia Antipolis University,Nice Sophia Antipolis University,,,,,,,,,,,,,,,,,,1.0,0.0
+229,Improved Bin Completion for Optimal Bin Packing and Number Partitioning,"University of California, Los Angeles","University of California, Los Angeles",,,,,,,,,,,,,,,,,,,2.0,0.0
+230,Normative Conflict Detection and Resolution in Cooperating Institutions,University of Bath,University of Bath,University of Surrey,"Ken Satoh, NII, Japan",,,,,,,,,,,,,,,,,1.0,0.0
+231,Towards Robust Co-Clustering, State Key Laboratory of Computer Science,Chinese Academy of Sciences,University of Chinese Academy of Sciences, State Key Laboratory of Computer Science,Chinese Academy of Sciences,,,,,,,,,,,,,,,,2.0,0.0
+232,Undecidability in Epistemic Planning,University of Rennes,Technical University of Denmark,,,,,,,,,,,,,,,,,,,2.0,0.0
+233,Guarantees of Augmented Trace Norm Models in Tensor Recovery,Harbin Institute of Technology,Harbin Institute of Technology,Harbin Institute of Technology,University of Science and Technology Beijing,"Fujitsu Research & Development Center, Beijing, China",,,,,,,,,,,,,,,,4.0,0.0
+234,Optimal Pricing for Improving Efficiency of Taxi Systems, The Key Laboratory of Intelligent Information Processing,University of Chinese Academy of Sciences, The Key Laboratory of Intelligent Information Processing,Oregon State University,Chinese Academy of Sciences, The Key Laboratory of Intelligent Information Processing,,,,,,,,,,,,,,,5.0,0.0
+235,Online Egocentric Models for Citation Networks,Shanghai Jiao Tong University,Shanghai Jiao Tong University,,,,,,,,,,,,,,,,,,,2.0,0.0
+236,An Alternative Axiomatization of DEL and Its Applications *,Peking University,University of Rennes,,,,,,,,,,,,,,,,,,,2.0,0.0
+237,Nominal Schema Absorption,"Institute of Artificial Intelligence Ulm University, German","Institute of Artificial Intelligence Ulm University, German","Institute of Artificial Intelligence Ulm University, German",,,,,,,,,,,,,,,,,,2.0,1.0
+238,Multiple Task Learning Using Iteratively Reweighted Least Square,Fudan University,Fudan University,IBM Research - Thomas J. Watson Research Center,Fudan University,,,,,,,,,,,,,,,,,4.0,0.0
+239,An Efficient Vector-Based Representation for Coalitional Games,University of Southampton,University of Southampton,University of Southampton,University of Southampton,University of Southampton,,,,,,,,,,,,,,,,5.0,0.0
+240,On Random Quotas and Proportional Representation in Weighted Voting Games,Nanyang Technological University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+241,Landmark-Based Heuristics and Search Control for Automated Planning (Extended Abstract),"Dematic, O↵enbach, Germany and NICTA, Australi",,,,,,,,,,,,,,,,,,,,1.0,0.0
+242,Using Strategic Logics to Reason about Agent Programs *,RMIT University,RMIT University,,,,,,,,,,,,,,,,,,,2.0,0.0
+243,YAGO2: A Spatially and Temporally Enhanced Knowledge Base from Wikipedia (Extended Abstract) *,Max Planck Institute for Informatics,Max Planck Institute for Informatics,Max Planck Institute for Informatics,Max Planck Institute for Informatics,,,,,,,,,,,,,,,,,4.0,0.0
+244,Meta-Interpretive Learning of Higher-Order Dyadic Datalog: Predicate Invention Revisited *,Imperial College London,Syngenta University Innovation Centre at Imperial College,,,,,,,,,,,,,,,,,,,1.0,0.0
+245,Online Expectation Maximization for Reinforcement Learning in POMDPs,Duke University,Duke University,Duke University,,,,,,,,,,,,,,,,,,3.0,0.0
+246,On the Complexity of Trick-Taking Card Games,Paris Dauphine University,Paris Dauphine University,Paris Dauphine University,,,,,,,,,,,,,,,,,,3.0,0.0
+247,Assessing the Resilience of Socio-Ecosystems: Coupling Viability Theory and Active Learning with kd-Trees. Application to Bilingual Societies *,Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori,Interdisciplinary University of Paris,Interdisciplinary University of Paris,Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori,Interdisciplinary University of Paris,Interdisciplinary University of Paris,Laboratoire de Recherche en Informatique de Paris 6,,,,,,,,,,,,,,1.0,0.0
+248,Linear Bayesian Reinforcement Learning,University of Ioannina,University of Ioannina,,,,,,,,,,,,,,,,,,,2.0,0.0
+249,Active Learning from Relative Queries,IBM Research - Thomas J. Watson Research Center,IBM Research - Thomas J. Watson Research Center,Arizona State University,"University of California, Davis",,,,,,,,,,,,,,,,,4.0,0.0
+250,Self-Organized Neural Learning of Statistical Inference from High-Dimensional Data,Universität Hamburg,Universität Hamburg,,,,,,,,,,,,,,,,,,,2.0,0.0
+251,Central Clustering of Categorical Data with Automated Feature Weighting,Fujian Normal University,Université de Sherbrooke,,,,,,,,,,,,,,,,,,,2.0,0.0
+252,Flexible Execution of Partial Order Plans With Temporal Constraints,Computer Science Department,University of Toronto,Computer Science Department,,,,,,,,,,,,,,,,,,1.0,0.0
+253,Flexibility and Decoupling in the Simple Temporal Problem,Delft University of Technology,Delft University of Technology,Delft University of Technology,Delft University of Technology,Delft University of Technology,Delft University of Technology,Delft University of Technology,Delft University of Technology,,,,,,,,,,,,,8.0,0.0
+254,Decision-Theoretic Approximations for Machine Learning,,,,,,,,,,,,,,,,,,,,,0.0,0.0
+255,Trust Modeling for Opinion Evaluation by Coping with Subjectivity and Dishonesty,Nanyang Technological University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+256,Monte Carlo *-Minimax Search,Maastricht University,Paris Dauphine University,University of Alberta,Maastricht University,,,,,,,,,,,,,,,,,4.0,0.0
+257,An Approach to Abductive Reasoning in Equational Logic *,Grenoble Institute of Technology,Grenoble Institute of Technology,Grenoble Institute of Technology,,,,,,,,,,,,,,,,,,3.0,0.0
+258,Social Influence Locality for Modeling Retweeting Behaviors,Tsinghua University,Tsinghua University,Tsinghua University,Tsinghua University,Tsinghua University,,,,,,,,,,,,,,,,5.0,0.0
+259,Deep Sparse Coding Based Recursive Disaggregation Model for Water Conservation,"Department of Computer Science Virginia Tech, United State","Department of Computer Science Virginia Tech, United State","Department of Computer Science Virginia Tech, United State",,,,,,,,,,,,,,,,,,3.0,0.0
+260,Computational Disaster Management,Data61,University of Melbourne,,,,,,,,,,,,,,,,,,,2.0,0.0
+261,Behavior Composition Optimization *,RMIT University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+262,Action-Model Acquisition from Noisy Plan Traces,Sun Yat-sen University,Arizona State University,,,,,,,,,,,,,,,,,,,2.0,0.0
+263,Forward Perimeter Search with Controlled Use of Memory,Zuse Institute Berlin,Zuse Institute Berlin,Zuse Institute Berlin,,,,,,,,,,,,,,,,,,3.0,0.0
+264,Exchanging OWL 2 QL Knowledge Bases,Cape Town HVTN Immunology Laboratory / Hutchinson Centre Research Institute of South Africa,University of Oxford,Free University of Bozen-Bolzano,,,,,,,,,,,,,,,,,,2.0,0.0
+265,Managing Qualitative Preferences and Constraints in a Dynamic Environment,University of Regina,University of Regina,,,,,,,,,,,,,,,,,,,2.0,0.0
+266,Preserving Partial Solutions while Relaxing Constraint Networks *,Artois University,Johannes Kepler University of Linz,Artois University,,,,,,,,,,,,,,,,,,3.0,0.0
+267,Exact Recovery of Sparsely-Used Dictionaries *,Yale University,Yale University,Yale University,,,,,,,,,,,,,,,,,,3.0,0.0
+268,Algorithms for Generating Ordered Solutions for Explicit AND/OR Structures : Extended Abstract *,Indian Institute of Technology Kharagpur,Cornell University,Indian Institute of Technology Kharagpur,Indian Institute of Technology Kharagpur,,,,,,,,,,,,,,,,,4.0,0.0
+269,Breakout Local Search for the Vertex Separator Problem,University of Angers," Boulevard Lavoisier, 49045 Angers Cedex 01, Franc",,,,,,,,,,,,,,,,,,,2.0,0.0
+270,Multi-Dimensional Single-Peaked Consistency and Its Approximations,Computer Science Department,Computer Science Department,Computer Science Department,,,,,,,,,,,,,,,,,,3.0,0.0
+271,Behavioral Diagnosis of LTL Specifications at Operator Level,Graz University of Technology,"Inffeldgasse 16b/II, 8010 Graz, Austri",,,,,,,,,,,,,,,,,,,1.0,0.0
+272,Forgetting for Answer Set Programs Revisited,Guizhou University,Griffith University,Guizhou Academy of Sciences,,,,,,,,,,,,,,,,,,3.0,0.0
+273,Integrating Semantic Relatedness and Words' Intrinsic Features for Keyword Extraction,Tsinghua University,Tsinghua University,Tsinghua University,,,,,,,,,,,,,,,,,,3.0,0.0
+274,Granular Description of Qualitative Change,University of Leeds,,,,,,,,,,,,,,,,,,,,1.0,0.0
+275,An Admissible Heuristic for SAS + Planning Obtained from the State Equation,Simón Bolívar University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+276,Answer Extraction from Passage Graph for Question Answering,Tianjin University,Microsoft Research Asia (China),University of Science and Technology of China,Microsoft Research Asia (China),,,,,,,,,,,,,,,,,2.0,2.0
+277,Learning Discriminative Representations from RGB-D Video Data,University of Sheffield,University of Sheffield,,,,,,,,,,,,,,,,,,,2.0,0.0
+278,Graph Classification with Imbalanced Class Distributions and Noise *,University of Technology Sydney,University of Technology Sydney,,,,,,,,,,,,,,,,,,,2.0,0.0
+279,A Tree-Based Tabu Search Algorithm for the Manpower Allocation Problem with Time Windows and Job-Teaming Constraints,Sun Yat-sen University,City University of Hong Kong,Sun Yat-sen University,Huazhong University of Science and Technology,City University of Hong Kong,,,,,,,,,,,,,,,,5.0,0.0
+280,Double-Wheel Graphs Are Graceful,Cornell University,Cornell University,Cornell University,,,,,,,,,,,,,,,,,,3.0,0.0
+281,Improving the Performance of Recommender Systems by Alleviating the Data Sparsity and Cold Start Problems,Nanyang Technological University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+282,The Extended Global Cardinality Constraint: An Empirical Survey (Extended Abstract) *,University of St Andrews,,,,,,,,,,,,,,,,,,,,1.0,0.0
+283,Plan Quality Optimisation via Block Decomposition,Australian National University,Australian National University,,,,,,,,,,,,,,,,,,,2.0,0.0
+284,Towards a Second Generation Random Walk Planner: An Experimental Exploration,University of Alberta,University of Alberta,,,,,,,,,,,,,,,,,,,2.0,0.0
+285,Conjunctive Regular Path Queries in Lightweight Description Logics,Laboratoire de Recherche en Informatique,"Institute of Information Systems Vienna University of Technology, Austri","Institute of Information Systems Vienna University of Technology, Austri",,,,,,,,,,,,,,,,,,3.0,0.0
+286,Topic Extraction from Online Reviews for Classification and Recommendation *,University College Dublin,University College Dublin,University College Dublin,University College Dublin,,,,,,,,,,,,,,,,,4.0,0.0
+287,Supervised Hypothesis Discovery Using Syllogistic Patterns in the Biomedical Literature,Kobe University,Kobe University,,,,,,,,,,,,,,,,,,,2.0,0.0
+288,Unlearning from Demonstration,George Mason University,George Mason University,George Mason University,George Mason University,,,,,,,,,,,,,,,,,4.0,0.0
+289,Hierarchical Bayesian Matrix Factorization with Side Information,Computer Science Department,Computer Science Department,Computer Science Department,Pohang University of Science and Technology,,,,,,,,,,,,,,,,,1.0,0.0
+290,Large-Scale Spectral Clustering on Graphs,University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,,,,,,,,,,,,,,,,,4.0,0.0
+291,A Rational Extension of Stable Model Semantics to the Full Propositional Language,Simon Fraser University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+292,Instance Selection and Instance Weighting for Cross-Domain Sentiment Classification via PU Learning,Nanjing University of Science and Technology,Nanjing University of Science and Technology,Nanjing University of Science and Technology,Nanjing University of Science and Technology,Institute of Automation,,,,,,,,,,,,,,,,5.0,0.0
+293,Bridging the Gap Between Refinement and Heuristics in Abstraction,Linköping University,Linköping University,,,,,,,,,,,,,,,,,,,2.0,0.0
+294,Multi-View Maximum Entropy Discrimination,East China Normal University,East China Normal University,,,,,,,,,,,,,,,,,,,2.0,0.0
+295,Better Generalization with Forecasts,Courant Institute of Mathematical Sciences,Courant Institute of Mathematical Sciences,,,,,,,,,,,,,,,,,,,2.0,0.0
+296,Learning Community-Based Preferences via Dirichlet Process Mixtures of Gaussian Processes,Data61,University of Waterloo,,,,,,,,,,,,,,,,,,,2.0,0.0
+297,Bootstrap Learning via Modular Concept Discovery,Massachusetts Institute of Technology,Massachusetts Institute of Technology,Harvard University,Massachusetts Institute of Technology,,,,,,,,,,,,,,,,,4.0,0.0
+298,Fair LTL Synthesis for Non-Deterministic Systems Using Strong Cyclic Planners,Sapienza University of Rome,University of Melbourne,Institució Catalana de Recerca i Estudis Avançats,,,,,,,,,,,,,,,,,,3.0,0.0
+299,The GoDeL Planning System: A More Perfect Union of Domain-Independent and Hierarchical Planning,Systems Research Institute,"University of Maryland, College Park",Systems Research Institute,"University of Maryland, College Park",Smart Information Flow Technologies (United States),Systems Research Institute,"University of Maryland, College Park",,,,,,,,,,,,,,6.0,1.0
+300,First-Order Rewritability of Atomic Queries in Horn Description Logics,French National Centre for Scientific Research,University of Bremen,University of Liverpool,,,,,,,,,,,,,,,,,,3.0,0.0
+301,Revisiting Centrality-as-Relevance: Support Sets and Similarity as Geometric Proximity: Extended Abstract *,Iscte – Instituto Universitário de Lisboa, Spoken Language Systems Laborator,University of Lisbon, Spoken Language Systems Laborator,Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,,,,,,,,,,,,,,,,2.0,0.0
+302,Using Domain Knowledge to Systematically Guide Feature Selection,Computer Science and Engineering University of Minnesot,,,,,,,,,,,,,,,,,,,,1.0,0.0
+303,Predicting the Size of Depth-First Branch and Bound Search Trees,University of Alberta,"University of California, Irvine","University of California, Irvine",,,,,,,,,,,,,,,,,,3.0,0.0
+304,Comprehensive Score: Towards Efficient Local Search for SAT with Long Clauses,Griffith University,Peking University,,,,,,,,,,,,,,,,,,,2.0,0.0
+305,"Constraint Satisfaction and Fair Multi-Objective Optimization Problems: Foundations, Complexity, and Islands of Tractability",University of Calabria,University of Calabria,,,,,,,,,,,,,,,,,,,2.0,0.0
+306,Towards a Deeper Understanding of Nonmonotonic Reasoning with Degrees,Vrije Universiteit Brussel,Cardiff University,Vrije Universiteit Brussel,Ghent University,,,,,,,,,,,,,,,,,4.0,0.0
+307,Robust Optimization for Hybrid MDPs with State-Dependent Noise,Australian National University,Australian National University,Universidade de São Paulo,Universidade de São Paulo,Universidade de São Paulo,,,,,,,,,,,,,,,,5.0,0.0
+308,Efficient Approach to Solve the Minimal Labeling Problem of Temporal and Spatial Qualitative Constraints,Arab Open University,University of Lille Nord de France,French National Centre for Scientific Research,Sorbonne University,,,,,,,,,,,,,,,,,3.0,0.0
+309,Minimizing Writes in Parallel External Memory Search,University of Denver,University of Denver,,,,,,,,,,,,,,,,,,,2.0,0.0
+310,Approximation Algorithms for Max-Sum-Product Problems,Dalle Molle Institute for Artificial Intelligence Research,,,,,,,,,,,,,,,,,,,,1.0,0.0
+311,Incorporating Expert Judgement into Bayesian Network Machine Learning,Queen Mary University of London,National University of Defense Technology,Queen Mary University of London,Queen Mary University of London,National University of Defense Technology,,,,,,,,,,,,,,,,5.0,0.0
+312,IJCAI-13 Award for Research Excellence,,,,,,,,,,,,,,,,,,,,,0.0,0.0
+313,Semi-Supervised Learning for Integration of Aerosol Predictions from Multiple Satellite Instruments,Temple University,Temple University,Temple University,,,,,,,,,,,,,,,,,,3.0,0.0
+314,Automatic Name-Face Alignment to Enable Cross-Media News Retrieval,Fudan University,Fudan University,Fudan University,Fudan University,Fudan University,University of North Carolina at Charlotte,,,,,,,,,,,,,,,6.0,0.0
+315,Multi-Agent Subset Space Logic,"Dept. of Computing, Mathematics and Physics Bergen University College, Norwa",University of Bergen,,,,,,,,,,,,,,,,,,,2.0,0.0
+316,Cyclic Causal Models with Discrete Variables: Markov Chain Equilibrium Semantics and Sample Ordering,University of British Columbia,Oregon State University,,,,,,,,,,,,,,,,,,,2.0,0.0
+317,Partial-Tree Linearization: Generalized Word Ordering for Text Synthesis,Singapore University of Technology and Design,,,,,,,,,,,,,,,,,,,,1.0,0.0
+318,Analysis and Optimization of Multi-Dimensional Percentile Mechanisms,University of Toronto,University of Toronto,Carnegie Mellon University,,,,,,,,,,,,,,,,,,3.0,0.0
+319,Detecting and Exploiting Subproblem Tractability,University of Montpellier,Joseph Fourier University,"LAAS-CNRS Toulouse, Franc",Military Institute of Armament Technology,Data61,,,,,,,,,,,,,,,,5.0,0.0
+320,The CQC Algorithm: Cycling in Graphs to Semantically Enrich and Enhance a Bilingual Dictionary (Extended Abstract) *,Sapienza University of Rome,Sapienza University of Rome,,,,,,,,,,,,,,,,,,,2.0,0.0
+321,"The RoboEarth Language: Representing and Exchanging Knowledge about Actions, Objects, and Environments (Extended Abstract) *",University of Bremen,Technical University of Munich,Technical University of Munich,University of Bremen,,,,,,,,,,,,,,,,,4.0,0.0
+322,Revisiting Regression in Planning,Carlos III University of Madrid,Carlos III University of Madrid,Carlos III University of Madrid,Carlos III University of Madrid,,,,,,,,,,,,,,,,,4.0,0.0
+323,Improving Function Word Alignment with Frequency and Syntactic Information *, ) MOE-Microsoft Key Laboratory of Intelligent Computing and Intelligent System ,Shanghai Jiao Tong University, ) MOE-Microsoft Key Laboratory of Intelligent Computing and Intelligent System ,Shanghai Jiao Tong University,,,,,,,,,,,,,,,,,2.0,0.0
+324,The Multi-Feature Information Bottleneck with Application to Unsupervised Image Categorization,Zhengzhou University,Zhengzhou University,Zhengzhou University,,,,,,,,,,,,,,,,,,3.0,0.0
+325,Statistical Tests for the Detection of the Arrow of Time in Vector Autoregressive Models,Autonomous University of Madrid,Autonomous University of Madrid,Autonomous University of Madrid,,,,,,,,,,,,,,,,,,3.0,0.0
+326,Constraint Acquisition via Partial Queries *,French National Centre for Scientific Research,French National Centre for Scientific Research,Laboratory for Analysis and Architecture of Systems," INRA Toulouse, Franc",French National Centre for Scientific Research,UNSW Sydney,Université Laval,UNSW Sydney,,,,,,,,,,,,,8.0,0.0
+327,Modeling Social Causality and Responsibility Judgment in Multi-Agent Interactions: Extended Abstract,Institute of Automation,University of Southern California,,,,,,,,,,,,,,,,,,,2.0,0.0
+328,Dominance Rules for the Choquet Integral in Multiobjective Dynamic Programming *,Paris Dauphine University,Laboratoire de Recherche en Informatique de Paris 6,Laboratoire de Recherche en Informatique de Paris 6,,,,,,,,,,,,,,,,,,3.0,0.0
+329,Extending Simple Tabular Reduction with Short Supports,University of St Andrews,University of St Andrews,,,,,,,,,,,,,,,,,,,2.0,0.0
+330,High-Level Program Execution in Multi-Agent Settings *,Sun Yat-sen University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+331,Continuously Relaxing Over-Constrained Conditional Temporal Problems through Generalized Conflict Learning and Resolution,Massachusetts Institute of Technology,Massachusetts Institute of Technology,,,,,,,,,,,,,,,,,,,2.0,0.0
+332,Pareto-Based Multiobjective AI Planning,"TAO Project, INRIA Saclay LRI Paris-Sud University, Orsay, Franc","TAO Project, INRIA Saclay LRI Paris-Sud University, Orsay, Franc",Université de Toulouse,"Thales Research & Technology Palaiseau, Franc","Thales Research & Technology Palaiseau, Franc",,,,,,,,,,,,,,,,3.0,1.0
+333,Dimensionality Reduction with Generalized Linear Models, Department of Electronic Engineerin, Department of Electronic Engineerin,Chinese University of Hong Kong, Department of Electronic Engineerin,,,,,,,,,,,,,,,,,4.0,0.0
+334,An Ensemble of Bayesian Networks for Multilabel Classification *," Istituto Sistemi Informativi e Networking (ISIN), Manno (Switzerland",Dalle Molle Institute for Artificial Intelligence Research,,,,,,,,,,,,,,,,,,,4.0,0.0
+335,Robust Unsupervised Feature Selection,University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,,,,,,,,,,,,,,,,,,,2.0,0.0
+336,Non-Negative Multiple Matrix Factorization,"NTT Communication Science Laboratories, Kyoto 619-0237, Japa","NTT Communication Science Laboratories, Kyoto 619-0237, Japa","NTT Communication Science Laboratories, Kyoto 619-0237, Japa","NTT Communication Science Laboratories, Kyoto 619-0237, Japa",,,,,,,,,,,,,,,,,0.0,4.0
+337,Special Track on Artificial Intelligence and Computational Sustainability,,,,,,,,,,,,,,,,,,,,,0.0,0.0
+338,Collaborative Topic Regression with Social Regularization for Tag Recommendation,Shanghai Jiao Tong University,Shanghai Jiao Tong University,Shanghai Jiao Tong University,,,,,,,,,,,,,,,,,,3.0,0.0
+339,Estimating Reference Evapotranspiration for Irrigation Management in the Texas High Plains,Texas Tech University,Texas Tech University,"USDA-ARS Bushland, Texas, US","Texas A&M AgriLife Extension Service Lubbock, Texas, US","Texas A&M AgriLife Research Amarillo, Texas, US","USDA-ARS Bushland, Texas, US","USDA-ARS Bushland, Texas, US",,,,,,,,,,,,,,7.0,0.0
+340,Reasoning about Normative Update,University of Nottingham,Utrecht University,University of Nottingham,,,,,,,,,,,,,,,,,,3.0,0.0
+341,Hartigan's K-Means Versus Lloyd's K-Means -Is It Time for a Change?,IBM Research - Haifa,IBM Research - Haifa,"Dept. Elec. Engineering The Technion Haifa, Israe",,,,,,,,,,,,,,,,,,1.0,2.0
+342,Learning Finite Beta-Liouville Mixture Models via Variational Bayes for Proportional Data Clustering,Concordia University,Concordia University,,,,,,,,,,,,,,,,,,,2.0,0.0
+343,Dynamic of Argumentation Frameworks,Artois University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+344,Semiring-Based Mini-Bucket Partitioning Schemes,Universitat Politècnica de Catalunya,Universitat Politècnica de Catalunya,"University of California, Irvine",,,,,,,,,,,,,,,,,,3.0,0.0
+345,Automating Quantified Conditional Logics in HOL ⇤,Freie Universität Berlin,,,,,,,,,,,,,,,,,,,,1.0,0.0
+346,Socioscope: Spatio-Temporal Signal Recovery from Social Media (Extended Abstract) *,University of Wisconsin–Madison,University of Wisconsin–Madison,University of Wisconsin–Madison,"Department of Physics, Mathematics and Informatics",,,,,,,,,,,,,,,,,4.0,0.0
+347,Learning Probabilistic Models for Mobile Manipulation Robots *,University of Freiburg,University of Freiburg,,,,,,,,,,,,,,,,,,,2.0,0.0
+348,A Scalable Approach to Column-Based Low-Rank Matrix Approximation *,Tsinghua University,Tsinghua University,Chinese Academy of Sciences," Google Inc., Beijing, China, 10008",Zhejiang University,,,,,,,,,,,,,,,,4.0,1.0
+349,Multiwinner Elections Under Preferences that Are Single-Peaked on a Tree,Nanyang Technological University,Stony Brook University,Nanyang Technological University,,,,,,,,,,,,,,,,,,3.0,0.0
+350,Endogenous Boolean Games,Imperial College London,,,,,,,,,,,,,,,,,,,,1.0,0.0
+351,On Condensing a Sequence of Updates in Answer-Set Programming *,Concentris (Germany),Universidade Nova de Lisboa,,,,,,,,,,,,,,,,,,,1.0,0.0
+352,"Knowing that, Knowing what, and Public Communication: Public Announcement Logic with Kv Operators *",Peking University,Peking University,,,,,,,,,,,,,,,,,,,2.0,0.0
+353,Machine-Learning-Based Circuit Synthesis,Ben-Gurion University of the Negev,Ben-Gurion University of the Negev,University College Cork,University College Cork,,,,,,,,,,,,,,,,,4.0,0.0
+354,Multi Class Learning with Individual Sparsity,Technion – Israel Institute of Technology,Technion – Israel Institute of Technology,,,,,,,,,,,,,,,,,,,2.0,0.0
+355,Domain Adaptation with Topical Correspondence Learning,Washington University in St. Louis,Washington University in St. Louis,,,,,,,,,,,,,,,,,,,2.0,0.0
+356,Basic Level in Formal Concept Analysis: Interesting Concepts and Psychological Ramifications *,"Palacký University, Olomouc","Palacký University, Olomouc",,,,,,,,,,,,,,,,,,,2.0,0.0
+357,Interactive Value Iteration for Markov Decision Processes with Unknown Rewards,University of Pittsburgh Medical Center,Université de Caen Normandie,,,,,,,,,,,,,,,,,,,2.0,0.0
+358,Controlling the Hypothesis Space in Probabilistic Plan Recognition,Université de Sherbrooke,Université de Sherbrooke,"Defence R&D Canada -Valcartier Québec (QC) G3J 1X5, Canad","Defence R&D Canada -Valcartier Québec (QC) G3J 1X5, Canad",,,,,,,,,,,,,,,,,2.0,0.0
+359,Ontology Based Query Answering with Existential Rules,University of Montpellier,,,,,,,,,,,,,,,,,,,,1.0,0.0
+360,Weight-Enhanced Diversification in Stochastic Local Search for Satisfiability,Griffith University,Griffith University,Griffith University,Griffith University,,,,,,,,,,,,,,,,,4.0,0.0
+361,Sufficiency-Based Selection Strategy for MCTS *,Reykjavík University,Reykjavík University,,,,,,,,,,,,,,,,,,,2.0,0.0
+362,Negotiation Algorithms for Large Agreement Spacess,Research Institute for Artificial Intelligence,,,,,,,,,,,,,,,,,,,,1.0,0.0
+363,On the Approximation Ability of Evolutionary Optimization with Application to Minimum Set Cover: Extended Abstract *,Nanjing University,Cancer Genomics Centre,University of Birmingham,Nanjing University,,,,,,,,,,,,,,,,,4.0,0.0
+364,Learning Descriptive Visual Representation by Semantic Regularized Matrix Factorization,Peking University,Peking University,,,,,,,,,,,,,,,,,,,2.0,0.0
+365,Multi-Modal Image Annotation with Multi-Instance Multi-Label LDA *,Nanjing University,Nanjing University,Nanjing University,,,,,,,,,,,,,,,,,,3.0,0.0
+366,Most Specific Generalizations w.r.t. General EL-TBoxes,TU Dresden,TU Dresden,,,,,,,,,,,,,,,,,,,2.0,0.0
+367,"i, Poet: Automatic Chinese Poetry Composition through a Generative Summarization Framework under Constrained Optimization",National Taiwan University,University of Edinburgh,Peking University,Beijing Information Science & Technology University,National Taiwan University,,,,,,,,,,,,,,,,5.0,0.0
+368,Combining RCC5 Relations with Betweenness Information,Cardiff University,University of Technology Sydney,,,,,,,,,,,,,,,,,,,2.0,0.0
+369,A Classification of First-Order Progressable Action Theories in Situation Calculus,Sapienza University of Rome,Sapienza University of Rome,,,,,,,,,,,,,,,,,,,2.0,0.0
+370,Interactive POMDP Lite: Towards Practical Planning to Predict and Exploit Intentions for Interacting with Self-Interested Agents,National University of Singapore,National University of Singapore,,,,,,,,,,,,,,,,,,,2.0,0.0
+371,"Constraints, Satisfiability, and Search",,,,,,,,,,,,,,,,,,,,,0.0,0.0
+372,Scaling-Up Security Games with Boundedly Rational Adversaries: A Cutting-Plane Approach,University of Southern California,University of Santiago Chile,,,,,,,,,,,,,,,,,,,2.0,0.0
+373,Towards the Design of Robust Trust and Reputation Systems,Nanyang Technological University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+374,On Computing Minimal Correction Subsets,Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,"University of California, Davis",Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,"University of California, Davis","University of California, Davis",,,,,,,,,,,,,,,,5.0,0.0
+375,Concept Generation in Language Evolution,University of Bristol,University of Bristol,,,,,,,,,,,,,,,,,,,2.0,0.0
+376,Computing Upper Bounds on Lengths of Transition Sequences,Griffith University,Aalto University,"Optimisation Research Group NICTA, Australi",,,,,,,,,,,,,,,,,,2.0,0.0
+377,Three Generalizations of the FOCUS Constraint,Data61,Antes,Institut National des Sciences Appliquées de Toulouse,Data61,,,,,,,,,,,,,,,,,3.0,0.0
+378,Reasoning about Continuous Uncertainty in the Situation Calculus *,University of Toronto,University of Toronto,,,,,,,,,,,,,,,,,,,2.0,0.0
+379,Boosting Cross-Lingual Knowledge Linking via Concept Annotation,Tsinghua University,Tsinghua University,Tsinghua University,,,,,,,,,,,,,,,,,,3.0,0.0
+380,A Multi-Objective Memetic Algorithm for Vehicle Resource Allocation in Sustainable Transportation Planning,Singapore Management University,Singapore Management University,Singapore Management University,,,,,,,,,,,,,,,,,,3.0,0.0
+381,Maximal Recursive Rule: A New Social Decision Scheme,Data61,,,,,,,,,,,,,,,,,,,,1.0,0.0
+382,"Sebastian run (Stanford University, Google and Udacity, USA) Program Chair",University of Padua,Chinese Academy of Sciences,Chinese Academy of Sciences,Tsinghua University,University of Freiburg,"IJCAI Executive Secretary Vesna Sabljakovic-Fritz (Vienna University of Technology, Austria",Cornell University,University of Nebraska–Lincoln,Osservatorio Astronomico di Padova,Nanyang Technological University,University of Illinois Urbana-Champaign,University of Minnesota,University of Bologna,Chinese University of Hong Kong,Linköping University,Linköping University,University of Technology,University of Science and Technology of China,Nanjing University,University of Technology Sydney,19.0,0.0
+383,Computing Text Semantic Relatedness using the Contents and Links of a Hypertext Encyclopedia: Extended Abstract *,Idiap Research Institute,Idiap Research Institute,,,,,,,,,,,,,,,,,,,2.0,0.0
+384,Strategic Interactions Among Agents with Bounded Rationality,"National Institute of Astrophysics, Optics and Electronics","National Institute of Astrophysics, Optics and Electronics","National Institute of Astrophysics, Optics and Electronics",,,,,,,,,,,,,,,,,,3.0,0.0
+385,Algorithm Portfolios Based on Cost-Sensitive Hierarchical Clustering,University College Cork,IBM Research - Thomas J. Watson Research Center,IBM Research - Thomas J. Watson Research Center,IBM Research - Thomas J. Watson Research Center,,,,,,,,,,,,,,,,,4.0,0.0
+386,On the Complexity of Global Scheduling Constraints under Structural Restrictions,University of Melbourne,UNSW Sydney,UNSW Sydney,University of Melbourne,Data61,,,,,,,,,,,,,,,,5.0,0.0
+387,Getting the Most Out of Pattern Databases for Classical Planning,University of Basel,University of Basel,University of Basel,,,,,,,,,,,,,,,,,,3.0,0.0
+388,Symbolic Merge-and-Shrink for Cost-Optimal Planning,Carlos III University of Madrid,Carlos III University of Madrid,Carlos III University of Madrid,,,,,,,,,,,,,,,,,,3.0,0.0
+389,Definability of Horn Revision from Horn Contraction,Western Sydney University,UNSW Sydney,UNSW Sydney, ARC Centre of Excellence in Autonomous System,Data61,Western Sydney University,,,,,,,,,,,,,,,5.0,0.0
+390,Bayesian Nonparametric Feature Construction for Inverse Reinforcement Learning,Korea Advanced Institute of Science and Technology,Korea Advanced Institute of Science and Technology,,,,,,,,,,,,,,,,,,,2.0,0.0
+391,Crowdsourcing Backdoor Identification for Combinatorial Optimization,Computer Science Department,Computer Science Department,Computer Science Department,Computer Science Department,Cornell University,,,,,,,,,,,,,,,,1.0,0.0
+392,Externalities in Cake Cutting,Aarhus University,Carnegie Mellon University,Aarhus University,,,,,,,,,,,,,,,,,,3.0,0.0
+393,Measuring Statistical Dependence via the Mutual Information Dimension,Max Planck Institute for Developmental Biology,Max Planck Institute for Developmental Biology,University of Tübingen,,,,,,,,,,,,,,,,,,3.0,0.0
+394,Weighted Path as a Condensed Pattern in a Single Attributed DAG *,"PPME, Université de Nouvelle Calédonie BP R4, F-98851 Nouméa, New Caledoni",Institute of Biology Valrose,University of Lyon System,,,,,,,,,,,,,,,,,,5.0,0.0
+395,A Text Scanning Mechanism Simulating Human Reading Process,Nanjing University of Posts and Telecommunications,Chinese Academy of Sciences,,,,,,,,,,,,,,,,,,,2.0,0.0
+396,Causal Belief Decomposition for Planning with Sensing: Completeness Results and Practical Approximation,Simón Bolívar University,Institució Catalana de Recerca i Estudis Avançats,,,,,,,,,,,,,,,,,,,2.0,0.0
+397,Cultural Diversity for Virtual Characters (Extended Abstract) *,Augsburg University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+398,Annealed Importance Sampling for Structure Learning in Bayesian Networks *,Helsinki Institute for Information Technology,Helsinki Institute for Information Technology,,,,,,,,,,,,,,,,,,,2.0,0.0
+399,Low-Rank Coding with b-Matching Constraint for Semi-Supervised Classification *,Northeastern University,Northeastern University,,,,,,,,,,,,,,,,,,,2.0,0.0
+400,Automated Generation of Interaction Graphs for Value-Factored Dec-POMDPs,New Mexico State University,University of Delhi,University of Massachusetts Amherst,,,,,,,,,,,,,,,,,,3.0,0.0
+401,Thinking of Images as What They Are: Compound Matrix Regression for Image Classification,University of Trento,University of Queensland,The University of Texas at Arlington,University of Trento,,,,,,,,,,,,,,,,,4.0,0.0
+402,Fully Proportional Representation as Resource Allocation: Approximability Results,University of Warsaw,AGH University of Science and Technology,University of Auckland,,,,,,,,,,,,,,,,,,3.0,0.0
+403,Maintaining Alternative Values in Constraint-Based Configuration *,University of Toulouse,University of Toulouse,,,,,,,,,,,,,,,,,,,2.0,0.0
+404,Evaluating Indirect Strategies for Chinese-Spanish Statistical Machine Translation: Extended Abstract *,Institute for Infocomm Research,Universitat Politècnica de Catalunya,,,,,,,,,,,,,,,,,,,2.0,0.0
+405,Statistical Parsing with Probabilistic Symbol-Refined Tree Substitution Grammars *,National Taitung University,National Institute of Informatics,National Taitung University,National Taitung University,,,,,,,,,,,,,,,,,1.0,0.0
+406,Transition Constraints: A Study on the Computational Complexity of Qualitative Change,University of Freiburg,University of Freiburg,University of Freiburg,University of Freiburg,,,,,,,,,,,,,,,,,4.0,0.0
+407,Efficient Extraction and Representation of Spatial Information from Video Data,Australian National University,Australian National University,Australian National University,,,,,,,,,,,,,,,,,,3.0,0.0
+408,Program Chair,Rodrigo de Salvo Braz Oliver Brdiczka Ken Brown Emma Brunskill Daniel Bryce Razvan Bunescu Wray Buntin,Nigerian Christian Hospital,,,,,,,,,,,,,,,,,,,2.0,0.0
+409,Soft Robotics: The Next Generation of Intelligent Machines,University of Zurich,University of Zurich,ETH Zurich,ETH Zurich,,,,,,,,,,,,,,,,,4.0,0.0
+410,Large Scale Online Kernel Classification,Nanyang Technological University,Nanyang Technological University,Nanyang Technological University,Microsoft (United States),Chinese Academy of Sciences,,,,,,,,,,,,,,,,4.0,1.0
+411,Towards Understanding Global Spread of Disease from Everyday Interpersonal Interactions,University of Rochester,University of Rochester,University of Rochester,,,,,,,,,,,,,,,,,,3.0,0.0
+412,Parametric Local Multimodal Hashing for Cross-View Similarity Search,Harbin Institute of Technology,Institute of Computing Technology,Hong Kong University of Science and Technology,Harbin Institute of Technology,Institute of Computing Technology,Harbin Institute of Technology,,,,,,,,,,,,,,,6.0,0.0
+413,Robust Tensor Clustering with Non-Greedy Maximization,Tianjin University,Chinese Academy of Sciences,Tianjin University,Tianjin University,University of Queensland,Chinese Academy of Sciences,,,,,,,,,,,,,,,6.0,0.0
+414,Temporal Description Logic for Ontology-Based Data Access,Free University of Bozen-Bolzano,University of London,University of Liverpool,University of London,,,,,,,,,,,,,,,,,4.0,0.0
+415,A Unified Approximate Nearest Neighbor Search Scheme by Combining Data Structure and Hashing,Zhejiang University,Zhejiang University,Zhejiang University,Zhejiang University,Zhejiang University,,,,,,,,,,,,,,,,5.0,0.0
+416,Semi-Supervised Structuring of Complex Data *,University of Salford,"Selmer, 1004 Bromuri, Stefano, 1649 Bu, Fan, 2982 Bu, Jiajun, 1820 Buchman, David, 2532 Buehler, Jennifer, 3207 Buffet, Olivier, 90, 2955 Burgard, Wolfram, 3131 Buss, Sam, 2972 C-Link: A Hierarchical Clustering Approach to Large-Scale Near-Optimal Coalition Forma-tion, 106 Cai, Deng, 681, 1415, 1820, 1883 Cai, Shaowei, 489 Cai, Xiao, 1240, 2598 Cai, Xinyuan, 1247 Cai, Yilin, 496 Calvanese, Diego, 703, 810 Campana, Bilson, 3047 Cao, Jian, 2626 Cao, Jie, 1799 Cao, Longbing, 1736, 2626 Cao, Xiaochun, 1254 Capabilities in Heterogeneous Multi Robot Sys-tems, 3207 Carbonnel, Clement, 468 Carin, Lawrence, 1501 Carrasco, Rafael C., 3180 Carvalho, Arthur, 2518 Casati, Nathalie, 134",Hunan Agricultural University,"Change-Point Detection with Feature Selection in High-Dimensional Time-Series Data, 1827 Chao, Guoqing, 1706 Charles, Fred, 1997 Charpillet, François, 90 Chen, Binyi, 2719 Chen, Chun, 1820 Chen, Enhong, 2740 Chen, Jiehua, 62 Chen, Li, 2691 Chen, Lifei, 1260 Chen, Mo, 1267 Chen, Ning, 1273 Chen, Niya, 2790 Chen, Siqi, 69 Chen, Suming, 2525 Chen, Ting, 2761 Chen, Wei, 206 Chen, Wenliang, 2085 Chen, Xiao, 2155 Chen, Xiaoping, 2459 Chen, Xilin, 2754 Chen, Xue, 1247 Chen, Zheng, 1280 Chen, Zhengzhang, 2952, 2958 Chen, Zhiyuan, 2071 Cheng, Chen, 2605 Cheng, Shih-Fen, 2833 Cheng, Weiwei, 3012 Cheng, Yu, 2952, 295",,,,,,,,,,,,,,,,,1.0,0.0
+417,Learning from Polyhedral Sets,University of Pisa,,,,,,,,,,,,,,,,,,,,1.0,0.0
+418,Supremal Realizability of Behaviors with Uncontrollable Exogenous Events *,RMIT University,Sapienza University of Rome,Sapienza University of Rome,RMIT University,,,,,,,,,,,,,,,,,4.0,0.0
+419,CLiMF: Collaborative Less-Is-More Filtering,Delft University of Technology,Telefonica Research and Development,Telefonica Research and Development,Delft University of Technology,Telefonica Research and Development,Delft University of Technology,,,,,,,,,,,,,,,3.0,3.0
+420,Communicating Open Systems (Extended Abstract) *,Goldsmiths University of London,King's College London,Spanish National Research Council,Spanish National Research Council,Spanish National Research Council,,,,,,,,,,,,,,,,5.0,0.0
+421,An Empirical Investigation of Ceteris Paribus Learnability,Open University of Cyprus,Open University of Cyprus,,,,,,,,,,,,,,,,,,,2.0,0.0
+422,Just-In-Time Compilation of Knowledge Bases,University of Lille,Johannes Kepler University of Linz,University of Paris-Sud,,,,,,,,,,,,,,,,,,3.0,0.0
+423,Bimodal Switching for Online Planning in Multiagent Settings *,University of Georgia,University of Georgia,,,,,,,,,,,,,,,,,,,2.0,0.0
+424,Arbitration and Stability in Cooperative Games in Overlapping Coalitions,Nanyang Technological University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+425,Object Recognition based on Visual Grammars and Bayesian Networks,"National Institute of Astrophisics, Optics and Electronics Computer Science Departmen","National Institute of Astrophisics, Optics and Electronics Computer Science Departmen",,,,,,,,,,,,,,,,,,,2.0,0.0
+426,Towards Rational Deployment of Multiple Heuristics in A*,"CS Department Ben-Gurion University, Israe","CS Department Ben-Gurion University, Israe","CS Department Ben-Gurion University, Israe",Ben-Gurion University of the Negev,"Faculty of IE&M Technion, Israe",,,,,,,,,,,,,,,,3.0,0.0
+427,Functional Stable Model Semantics and Answer Set Programming Modulo Theories,Arizona State University,Arizona State University,,,,,,,,,,,,,,,,,,,2.0,0.0
+428,Regularized Latent Least Square Regression for Cross Pose Face Recognition,University of Chinese Academy of Sciences,University of Chinese Academy of Sciences,University of Chinese Academy of Sciences,University of Chinese Academy of Sciences,University of Chinese Academy of Sciences,,,,,,,,,,,,,,,,5.0,0.0
+429,Social Collaborative Filtering by Trust,Jilin University,Hong Kong Baptist University,,,,,,,,,,,,,,,,,,,2.0,0.0
+430,Short-Term Wind Power Forecasting Using Gaussian Processes,Beihang University,Aston University,,,,,,,,,,,,,,,,,,,2.0,0.0
+431,Computational Perspectives on Social Phenomena at Global Scales,Chinese Academy of Sciences,ABB BAIDU Huawei Google Microso Research NVidi,,,,,,,,,,,,,,,,,,,1.0,0.0
+432,Manifold Alignment Preserving Global Geometry,IBM Research - Thomas J. Watson Research Center,University of Massachusetts Amherst,,,,,,,,,,,,,,,,,,,2.0,0.0
+433,Using Double-Oracle Method and Serialized Alpha-Beta Search for Pruning in Simultaneous Move Games,Technical University of Munich,Technical University of Munich,Technical University of Munich,Technical University of Munich,Technical University of Munich,,,,,,,,,,,,,,,,5.0,0.0
+434,Multi-Dimensional Causal Discovery,Royal Victoria Hospital,University of London,University of Applied Sciences and Arts Northwestern Switzerland,,,,,,,,,,,,,,,,,,2.0,0.0
+435,One-Class Conditional Random Fields for Sequential Anomaly Detection, MIT Computer Science and Artificial Intelligence Laborator,IBM Research - Thomas J. Watson Research Center,IBM Research - Thomas J. Watson Research Center, MIT Computer Science and Artificial Intelligence Laborator,,,,,,,,,,,,,,,,,2.0,2.0
+436,Evolution of Common-Pool Resources and Social Welfare in Structured Populations *,Université Libre de Bruxelles,Université Libre de Bruxelles,Vrije Universiteit Brussel,Université Libre de Bruxelles,Vrije Universiteit Brussel,,,,,,,,,,,,,,,,5.0,0.0
+437,A Lossy Counting Based Approach for Learning on Streams of Graphs on a Budget,"Department of Mathematics University of Padova, Ital","Department of Mathematics University of Padova, Ital","Department of Mathematics University of Padova, Ital","Department of Mathematics University of Padova, Ital",,,,,,,,,,,,,,,,,3.0,0.0
+438,First-Order Expressibility and Boundedness of Disjunctive Logic Programs,Western Sydney University,Western Sydney University,,,,,,,,,,,,,,,,,,,2.0,0.0
+439,Problem Splitting Using Heuristic Search in Landmark Orderings,"Onera -The French Aerospace Lab -Toulouse, Franc","Onera -The French Aerospace Lab -Toulouse, Franc","Onera -The French Aerospace Lab -Toulouse, Franc",,,,,,,,,,,,,,,,,,3.0,0.0
+440,Fault-Tolerant Planning under Uncertainty,University of Massachusetts Amherst,University of Massachusetts Amherst,University of Massachusetts Amherst," General Motors, Advanced Technical Center, Herzliya Pituach 4673341, Israe",,,,,,,,,,,,,,,,,3.0,0.0
+441,Breaking Symmetries in Graph Representation,Ben-Gurion University of the Negev,University of Glasgow,University of Glasgow,University of Melbourne,,,,,,,,,,,,,,,,,4.0,0.0
+442,Target-Value Search Revisited,Carlos III University of Madrid,Harvard University,Ben-Gurion University of the Negev,,,,,,,,,,,,,,,,,,3.0,0.0
+443,Problem Transformations and Algorithm Selection for CSPs,University College Cork,University College Cork,,,,,,,,,,,,,,,,,,,2.0,0.0
+444,Generalized Biwords for Bitext Compression and Translation Spotting: Extended Abstract *,University of Alicante,University of Alicante,University of Valladolid,University of Valladolid,,,,,,,,,,,,,,,,,4.0,0.0
+445,Active Learning with Multi-Label SVM Classification,Temple University,Temple University,,,,,,,,,,,,,,,,,,,2.0,0.0
+446,Early Active Learning via Robust Representation and Structured Sparsity,The University of Texas at Arlington,Colorado School of Mines,The University of Texas at Arlington,The University of Texas at Arlington,,,,,,,,,,,,,,,,,4.0,0.0
+447,A Reputation Management Approach for Resource Constrained Trustee Agents,Nanyang Technological University,Nanyang Technological University,Institute of Computing Technology,University of British Columbia,University of Massachusetts Amherst,,,,,,,,,,,,,,,,5.0,0.0
+448,Improving Combinatorial Optimization: Extended Abstract *,University of Melbourne,,,,,,,,,,,,,,,,,,,,1.0,0.0
+449,Isomorph-Free Branch and Bound Search for Finite State Controllers,University of Waterloo,University of Waterloo,University of Waterloo,,,,,,,,,,,,,,,,,,3.0,0.0
+450,Modeling Lexical Cohesion for Document-Level Machine Translation,Soochow University,Institute for Infocomm Research,Institute of Computing Technology,Soochow University,Institute for Infocomm Research,Institute of Computing Technology,Institute of Computing Technology,Dublin City University,,,,,,,,,,,,,8.0,0.0
+451,Monte-Carlo Expectation Maximization for Decentralized POMDPs,University of Southampton,University of Massachusetts Amherst,University of Southampton,,,,,,,,,,,,,,,,,,3.0,0.0
+452,Robust Constraint Satisfaction and Local Hidden Variables in Quantum Mechanics,University of Oxford,University of Oxford,"University of California, Santa Cruz",,,,,,,,,,,,,,,,,,3.0,0.0
+453,Social Norms for Self-Policing Multi-Agent Systems and Virtual Societies * (Extended Abstract),"Artificial Intelligence Research Institute (IIIA) -Spanish Scientific Research Council (CSIC), Bellaterra, Spai",Barcelona Digital Centro Tecnológico,,,,,,,,,,,,,,,,,,,0.0,1.0
+454,Scalable Dynamic Nonparametric Bayesian Models of Content and Users *,Carnegie Mellon University,Carnegie Mellon University,Carnegie Mellon University,,,,,,,,,,,,,,,,,,3.0,0.0
+455,Compact Rewritings for Existential Rules *,University of Montpellier,,,,,,,,,,,,,,,,,,,,1.0,0.0
+456,Interpolative Reasoning with Default Rules,Cardiff University,Université Toulouse III - Paul Sabatier,,,,,,,,,,,,,,,,,,,2.0,0.0
+457,Optimal Delete-Relaxed (and Semi-Relaxed) Planning with Conditional Effects,Australian National University,,,,,,,,,,,,,,,,,,,,1.0,0.0
+458,Audit Games *,Carnegie Mellon University,Carnegie Mellon University,Carnegie Mellon University,Carnegie Mellon University,Carnegie Mellon University,,,,,,,,,,,,,,,,5.0,0.0
+459,Information Fusion Based Learning for Frugal Traffic State Sensing,IBM (India),IBM (India),The University of Tokyo,IBM (India),IBM (India),,,,,,,,,,,,,,,,1.0,4.0
+460,PageRank with Priors: An Influence Propagation Perspective,University of Science and Technology of China,University of Science and Technology of China,University of Science and Technology of China,"Rutgers, The State University of New Jersey",University of Science and Technology of China,University of Science and Technology of China,,,,,,,,,,,,,,,6.0,0.0
+461,Exploring Knowledge Engineering Strategies in Designing and Modelling a Road Traffic Accident Management Domain,University of Huddersfield,University of Huddersfield,University of Huddersfield,University of Huddersfield,University of Huddersfield,,,,,,,,,,,,,,,,5.0,0.0
+462,Decidability of Model Checking Non-Uniform Artifact-Centric Quantified Interpreted Systems,"Computer Science, Integrative Biology and Complex Systems",Imperial College London,,,,,,,,,,,,,,,,,,,2.0,0.0
+463,Subset Selection of Search Heuristics,University of Alberta,University of Denver,University of Alberta,,,,,,,,,,,,,,,,,,3.0,0.0
+464,Maintaining Soft Arc Consistencies in BnB-ADOPT + During Search,Chinese University of Hong Kong,,,,,,,,,,,,,,,,,,,,1.0,0.0
+465,Search Strategies for Optimal Multi-Way Number Partitioning,,,,,,,,,,,,,,,,,,,,,0.0,0.0
+466,Rolling Dispersion and Exploration for Robot Teams,Department of Computer Science and Engineering University of Minnesot,,,,,,,,,,,,,,,,,,,,1.0,0.0
+467,Learning Qualitative Models from Numerical Data: Extended Abstract ⇤,University of Ljubljana,University of Ljubljana,University of Ljubljana,University of Ljubljana,,,,,,,,,,,,,,,,,4.0,0.0
+468,Capabilities in Heterogeneous Multi Robot Systems,UNSW Sydney,,,,,,,,,,,,,,,,,,,,1.0,0.0
+469,DeQED: An Efficient Divide-and-Coordinate Algorithm for DCOP,National Institute of Informatics,Japan Science and Technology Agency,Kobe University,,,,,,,,,,,,,,,,,,3.0,0.0
+470,Variable Elimination in Binary CSP via Forbidden Patterns *,Royal Holloway University of London,Université de Toulouse,Université de Toulouse,University of Warwick,,,,,,,,,,,,,,,,,4.0,0.0
+471,Adapting Surface Sketch Recognition Techniques for Surfaceless Sketches,Texas A&M University,Texas A&M University,,,,,,,,,,,,,,,,,,,2.0,0.0
+472,Lifelong Learning for Acquiring the Wisdom of the Crowd,Microsoft (United States),Microsoft (United States),Microsoft (United States),,,,,,,,,,,,,,,,,,0.0,3.0
+473,Run-Time Improvement of Point-Based POMDP Policies,University of Birmingham,University of Birmingham,,,,,,,,,,,,,,,,,,,2.0,0.0
+474,Verifiable Equilibria in Boolean Games,University of Bergen,University of Oxford,University of Liverpool,University of Oxford,,,,,,,,,,,,,,,,,4.0,0.0
+475,"Exact Top-k Feature Selection via 2,0 -Norm Constraint",The University of Texas at Arlington,The University of Texas at Arlington,The University of Texas at Arlington,,,,,,,,,,,,,,,,,,3.0,0.0
+476,Generalized Relational Topic Models with Data Augmentation,State Key Laboratory of Food Science and Technology,State Key Laboratory of Food Science and Technology,Tsinghua University,State Key Laboratory of Food Science and Technology,,,,,,,,,,,,,,,,,1.0,0.0
+477,Coupled Attribute Analysis on Numerical Data,University of Technology Sydney,University of Technology Sydney,University of Technology Sydney,,,,,,,,,,,,,,,,,,3.0,0.0
+478,Path Integral Control by Reproducing Kernel Hilbert Space Embedding,School of Informatics University of Edinburg,Inst. für Parallele und Verteilte Systeme Universität Stuttgar,School of Informatics University of Edinburg,,,,,,,,,,,,,,,,,,3.0,0.0
+479,Multi-Agent Epistemic Explanatory Diagnosis via Reasoning about Actions,Sun Yat-sen University,Qiannan Normal College For Nationalities,Sun Yat-sen University," Guangdong Institute of Public Administration, Guangzhou 510053, Chin",Sun Yat-sen University,,,,,,,,,,,,,,,,4.0,0.0
+480,Improving Question Retrieval in Community Question Answering Using World Knowledge,Chinese Academy of Sciences,Chinese Academy of Sciences,Chinese Academy of Sciences,Chinese Academy of Sciences,Chinese Academy of Sciences,,,,,,,,,,,,,,,,5.0,0.0
+481,Adaptive Loss Minimization for Semi-Supervised Elastic Embedding,The University of Texas at Arlington,Colorado School of Mines,The University of Texas at Arlington,The University of Texas at Arlington,,,,,,,,,,,,,,,,,4.0,0.0
+482,Learning Canonical Correlations of Paired Tensor Sets Via Tensor-to-Vector Projection,Institute for Infocomm Research,,,,,,,,,,,,,,,,,,,,1.0,0.0
