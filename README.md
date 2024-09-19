@@ -1,4 +1,4 @@
-# Investigating-Industry-Academia-Collaboration-in-Artificial-Intelligence
+# Investigating_Industry-Academia_Collaboration_in_Artificial_Intelligence
 
 Abstracts of these papers have been removed for copyright reasons.
 
